@@ -44,23 +44,23 @@
   
   function switchGlobe() {
     if (!wwd.flatGlobe) {
-      wwd.flatGlobe = new WorldWind.Globe2D(); // ÑÐ¾Ð·Ð´Ð°ÐµÐ¼ Ð¸ Ð·Ð°Ð¿Ð¾Ð¼Ð¸Ð½Ð°ÐµÐ¼ 2d Ð³Ð»Ð¾Ð±ÑƒÑ
-      // ÑƒÑÑ‚Ð°Ð½Ð°Ð²Ð»Ð¸Ð²Ð°ÐµÐ¼ ÐµÐ¼Ñƒ Ð¿Ñ€Ð¾ÐµÐºÑ†Ð¸ÑŽ Ð¼ÐµÑ€ÐºÐ°Ñ‚Ð¾Ñ€Ð° (Ñ‚ÑƒÑ‚ Ð²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ñ‹ Ð´Ñ€ÑƒÐ³Ð¸Ðµ Ð¿Ñ€Ð¾ÐµÐºÑ†Ð¸Ð¸)
+      wwd.flatGlobe = new WorldWind.Globe2D(); 
+      
       wwd.flatGlobe.projection = new WorldWind.ProjectionMercator(); 
-      wwd.globe3d = wwd.globe;//  Ð·Ð°Ð¿Ð¾Ð¼Ð¸Ð½Ð°ÐµÐ¼ 3d Ð³Ð»Ð¾Ð±ÑƒÑ (Ñ‚ÐµÐºÑƒÑ‰Ð¸Ð¹)
+      wwd.globe3d = wwd.globe;
     }
-    // Ð¿ÐµÑ€ÐµÐºÐ»ÑŽÑ‡Ð°ÐµÐ¼ Ð¿Ð¾ ÐºÐ»Ð¸ÐºÑƒ Ð¿Ñ€ÐµÐ´ÑÑ‚Ð°Ð²Ð»ÐµÐ½Ð¸Ñ Ñ‚ÑƒÐ´Ð° Ð¸ Ð¾Ð±Ñ€Ð°Ñ‚Ð½Ð¾
+    
     wwd.globe = (wwd.is2d = !wwd.is2d) ? wwd.flatGlobe : wwd.globe3d;
-    wwd.redraw();  // Ð½ÑƒÐ¶Ð½Ð¾ Ð¿Ð¾Ð·Ð²Ð°Ñ‚ÑŒ Ð¿ÐµÑ€ÐµÑ€Ð¸ÑÐ¾Ð²ÐºÑƒ Ð¿Ð¾ÑÐ»Ðµ Ð¿ÐµÑ€ÐµÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ñ
+    wwd.redraw();
   }
 
-  // Ñ„ÑƒÐ½ÐºÑ†Ð¸Ñ ÑÐ¾Ð·Ð´Ð°ÐµÑ‚ Ð½Ð¾Ð²Ñ‹Ð¹ Ð¼Ð°Ñ€ÐºÐµÑ€
+  
   function placemark(lat, lon, name) {
-    // Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ
+   
     var position = new WorldWind.Location(lat, lon); 
     var placemark = new WorldWind.Placemark(position, true, attributes);
-    placemark.label = name; // Ð¿Ð¾Ð´Ð¿Ð¸ÑÑŒ
-    // Ñ€ÐµÐ¶Ð¸Ð¼ Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ¸ Ð²Ñ‹ÑÐ¾Ñ‚Ñ‹ (Ð¿Ñ€Ð¸Ð±Ð¸Ñ‚ÑŒ Ðº Ð¿Ð¾Ð²ÐµÑ€Ñ…Ð½Ð¾ÑÑ‚Ð¸)
+    placemark.label = name; 
+
     placemark.altitudeMode = WorldWind.CLAMP_TO_GROUND; 
     // Ð´Ð¸ÑÑ‚Ð°Ð½Ñ†Ð¸Ñ Ñ ÐºÐ¾Ñ‚Ð¾Ñ€Ð¾Ð¹ Ð½Ð°Ñ‡Ð¸Ð½Ð°ÐµÑ‚ÑÑ Ð¼Ð°ÑÑˆÑ‚Ð°Ð±Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð¿Ñ€Ð¸ Ð¾Ñ‚Ð´Ð°Ð»ÐµÐ½Ð¸Ð¸
     placemark.eyeDistanceScalingThreshold = 2500000; 
