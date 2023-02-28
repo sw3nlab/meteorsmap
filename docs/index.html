@@ -85,13 +85,13 @@
     var o = pickList.objects.find(o => !o.isTerrain);
     if (!o)
       return;
-   // fetch("https://en.wikipedia.org/w/api.php?&origin=*&action=opensearch&search=" + o.userObject.label + "&limit=1").then(function(resp) {
-      fetch("https://yandex.ru/search/?text=" + o.userObject.label + "&ie=UTF-8").then(function(resp) {
+    fetch("https://en.wikipedia.org/w/api.php?&origin=*&action=opensearch&search=" + o.userObject.label + "&limit=1").then(function(resp) {
+     // fetch("https://yandex.ru/search/?text=" + o.userObject.label + "&ie=UTF-8").then(function(resp) {
      return resp.json()
     }).then(function(data) {
       popup.innerHTML += `<br><iframe src="${data.pop()}"></iframe>`;
     });
-    popup.innerHTML = o.userObject.label + "<span id='close'>Г—</span>";
+    popup.innerHTML = o.userObject.label + "<span id='close'>close</span>";
     popup.classList.add('visible');
   });
 </script>
