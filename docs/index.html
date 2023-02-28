@@ -15,22 +15,20 @@
   
   var wwd = new WorldWind.WorldWindow("canvas");
   
-  wwd.addLayer(new WorldWind.StarFieldLayer());  // Ð´Ð¾Ð±Ð°Ð²Ð»ÑÐµÐ¼ ÑÐ»Ð¾Ð¹ ÑÐ¾ Ð·Ð²ÐµÐ·Ð´Ð°Ð¼Ð¸ 
-  wwd.addLayer(new WorldWind.AtmosphereLayer()); // Ð´Ð¾Ð±Ð°Ð²Ð»ÑÐµÐ¼ ÑÐ»Ð¾Ð¹ Ñ Ð°Ñ‚Ð¼Ð¾ÑÑ„ÐµÑ€Ð¾Ð¹
-  wwd.addLayer(new WorldWind.BingAerialWithLabelsLayer());  // Ð´Ð¾Ð±Ð°Ð²Ð»ÑÐµÐ¼ ÑÐ»Ð¾Ð¹ Ñ Ñ‚Ð°Ð¹Ð»Ð°Ð¼Ð¸ Ð¾Ñ‚ Bing
+  wwd.addLayer(new WorldWind.StarFieldLayer());  
+  wwd.addLayer(new WorldWind.AtmosphereLayer()); 
+ // wwd.addLayer(new WorldWind.BingAerialWithLabelsLayer()); 
   
   var markers = new WorldWind.RenderableLayer("Markers"); 
   wwd.addLayer(markers); 
 
-  // Ð¿Ð¾Ð»ÑƒÑ‡Ð°ÐµÐ¼ Ð±Ð¾Ð»ÑŒÑˆÐ¾Ð¹ Ñ„Ð°Ð¹Ð» Ñ Ð¾Ð¿Ð¸ÑÐ°Ð½Ð¸ÐµÐ¼ Ð³Ð¾Ñ€Ð¾Ð´Ð¾Ð² Ð¸ Ð¾Ñ‚Ð´Ð¸Ñ€Ð°ÐµÐ¼ Ð¸Ð· Ð½Ð¸Ñ… ÐºÐ°Ð¶Ð´Ñ‹Ð¹ Ð¿ÑÑ‚Ð¸ÑÐ¾Ñ‚Ñ‹Ð¹ =)
-  // Ð¸ Ð´Ð¾Ð±Ð°Ð²Ð»ÑÐµÐ¼ Ð¼Ð°Ñ€ÐºÐµÑ€Ñ‹ Ð´Ð»Ñ Ð½Ð¸Ñ… Ð½Ð° ÑÐ»Ð¾Ð¹ Ñ Ð¼Ð°Ñ€ÐºÐµÑ€Ð°Ð¼Ð¸
-  //fetch('https://raw.githubusercontent.com/lutangar/cities.json/master/cities.json')
+ //json файл с координатами падения
    fetch('https://raw.githubusercontent.com/sw3nlab/meteorsmap/main/coordinates.json')
     .then(r => r.json())
     .then(r => r.forEach((c, i) => i % 1 === 0 &&
       markers.addRenderable(placemark(+c.lat, +c.lng, c.name)))) 
 
-  // Ð°Ñ‚Ñ‚Ñ€Ð¸Ð±ÑƒÑ‚Ñ‹ Ð¼Ð°Ñ€ÐºÐµÑ€Ð°
+  
   var attributes = new WorldWind.PlacemarkAttributes();
   attributes.imageOffset = new WorldWind.Offset(
     WorldWind.OFFSET_FRACTION, 0.3,  
