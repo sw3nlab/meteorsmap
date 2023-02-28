@@ -62,12 +62,12 @@
     placemark.label = name; 
 
     placemark.altitudeMode = WorldWind.CLAMP_TO_GROUND; 
-    // Ð´Ð¸ÑÑ‚Ð°Ð½Ñ†Ð¸Ñ Ñ ÐºÐ¾Ñ‚Ð¾Ñ€Ð¾Ð¹ Ð½Ð°Ñ‡Ð¸Ð½Ð°ÐµÑ‚ÑÑ Ð¼Ð°ÑÑˆÑ‚Ð°Ð±Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð¿Ñ€Ð¸ Ð¾Ñ‚Ð´Ð°Ð»ÐµÐ½Ð¸Ð¸
+    
     placemark.eyeDistanceScalingThreshold = 2500000; 
     return placemark;
   }
 
-  // ÑÐ»ÑƒÑˆÐ°Ñ‚ÐµÐ»ÑŒ Ð´Ð²Ð¸Ð¶ÐµÐ½Ð¸Ñ Ð¼Ñ‹ÑˆÐ¸
+
   wwd.addEventListener("mousemove", function(e) {
     var x = e.clientX,
       y = e.clientY;
@@ -77,7 +77,7 @@
     document.querySelector('#mouseover').innerHTML = o ? o.userObject.label : '';
   });
 
-  // Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚Ñ‡Ð¸Ðº ÐºÐ»Ð¸ÐºÐ¾Ð²
+
   new WorldWind.ClickRecognizer(wwd, function(recognizer) {
     var x = recognizer.clientX,
       y = recognizer.clientY;
@@ -91,7 +91,7 @@
     }).then(function(data) {
       popup.innerHTML += `<br><iframe src="${data.pop()}"></iframe>`;
     });
-    popup.innerHTML = o.userObject.label + "<span id='close'>x</span>";
+    popup.innerHTML = o.userObject.label + "<span id='close'>close</span>";
     popup.classList.add('visible');
   });
 </script>
