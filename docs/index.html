@@ -76,25 +76,7 @@
     document.querySelector('canvas').style.cursor = o ? "pointer" : "default";
     document.querySelector('#mouseover').innerHTML = o ? o.userObject.label : '';
   });
-
-
-  new WorldWind.ClickRecognizer(wwd, function(recognizer) {
-    var x = recognizer.clientX,
-      y = recognizer.clientY;
-    var pickList = wwd.pick(wwd.canvasCoordinates(x, y));
-    var o = pickList.objects.find(o => !o.isTerrain);
-    if (!o)
-      return;
-   // fetch("https://en.wikipedia.org/w/api.php?&origin=*&action=opensearch&search=" + o.userObject.label + "&limit=1").then(function(resp) {
-      fetch("https://cors-anywhere.herokuapp.com/http://malina.dyndns.org/fs/meteor.php?id=" + o.userObject.label + "&ie=UTF-8").then(function(resp) {
-     return resp.json()
-    }).then(function(data) {
-      popup.innerHTML += `<br><iframe src="${data.pop()}"></iframe>`;
-    });
-    popup.innerHTML = o.userObject.label + "<span id='close'>close</span>";
-    popup.classList.add('visible');
-  });
-  
+ 
   
    new WorldWind.PinchRecognizer(wwd, function(recognizer) {
     var x = recognizer.clientX,
