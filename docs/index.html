@@ -47,7 +47,7 @@
       wwd.flatGlobe = new WorldWind.Globe2D(); 
     
       wwd.flatGlobe.projection = new WorldWind.ProjectionMercator(); 
-      wwd.globe3d = wwd.globe;//  Р·Р°РїРѕРјРёРЅР°РµРј 3d РіР»РѕР±СѓСЃ (С‚РµРєСѓС‰РёР№)
+      wwd.globe3d = wwd.globe;
     }
     
     wwd.globe = (wwd.is2d = !wwd.is2d) ? wwd.flatGlobe : wwd.globe3d;
@@ -59,7 +59,7 @@
    
     var position = new WorldWind.Location(lat, lon); 
     var placemark = new WorldWind.Placemark(position, true, attributes);
-    placemark.label = name; // РїРѕРґРїРёСЃСЊ
+    placemark.label = name; 
   
     placemark.altitudeMode = WorldWind.CLAMP_TO_GROUND; 
     
