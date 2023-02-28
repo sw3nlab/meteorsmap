@@ -9,6 +9,7 @@ https://sw3nlab.github.io/meteorsmap
 ( http://www.meteorites.ru/menu/collection/collect_a.html )
 
 для визуализации используется SDK от NASA
+
 ( https://github.com/NASAWorldWind/WebWorldWind )
 
 
