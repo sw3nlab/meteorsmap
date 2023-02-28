@@ -17,13 +17,13 @@
   
   wwd.addLayer(new WorldWind.StarFieldLayer());
   wwd.addLayer(new WorldWind.AtmosphereLayer()); 
- // wwd.addLayer(new WorldWind.BingAerialWithLabelsLayer()); 
+ 
   
   var markers = new WorldWind.RenderableLayer("Markers"); 
   wwd.addLayer(markers); 
 
 
-   fetch('https://raw.githubusercontent.com/sw3nlab/meteorsmap/main/coordinates.json')
+   fetch('https://raw.githubusercontent.com/sw3nlab/meteorsmap/main/coordinates.json') // json файл c координатами
     .then(r => r.json())
     .then(r => r.forEach((c, i) => i % 1 === 0 &&
       markers.addRenderable(placemark(+c.lat, +c.lng, c.name)))) 
