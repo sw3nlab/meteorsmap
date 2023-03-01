@@ -70,10 +70,6 @@
     return placemark;
   }
 
-  function retlink(c.name){
-return c.name;
-  }
-
   wwd.addEventListener("mousemove", function(e) {
     var x = e.clientX,
       y = e.clientY;
@@ -111,8 +107,7 @@ return c.name;
     fetch("https://en.wikipedia.org/w/api.php?&origin=*&action=opensearch&search=" + o.userObject.label + "&limit=1").then(function(resp) {
      return resp.json()
     }).then(function(data) {
-     // popup.innerHTML += `<br><iframe src="${data.pop()}"></iframe>`;
-   popup.innerHTML += `<br>${data.pop()}<br>`+ retlink(c.name) +`<br>ok`;
+     popup.innerHTML += `<br><iframe src="${data.pop()}"></iframe>`;
     });
     popup.innerHTML = o.userObject.label + "<span id='close'>close</span>";
     popup.classList.add('visible');
