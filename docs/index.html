@@ -110,7 +110,7 @@
     popup.innerHTML += `<br> <iframe src="` + o.userObject.label + `"></iframe><br>`;
    //  popup.innerHTML += `<br><iframe src="${data.pop()}"></iframe>`;
     });
-    popup.innerHTML = o.userObject.label.replace('https\:\/\/ru\.wikipedia\.org\/wiki\/|https\:\/\/en\.wikipedia\.org\/wiki\/','') + "<span id='close'>close</span>";
+    popup.innerHTML = o.userObject.label.replace('https\:\/\/ru\.wikipedia\.org\/wiki\/||https\:\/\/en\.wikipedia\.org\/wiki\/','') + "<span id='close'>close</span>";
     popup.classList.add('visible');
   });
 </script>
