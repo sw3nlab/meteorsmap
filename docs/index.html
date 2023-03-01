@@ -17,7 +17,9 @@
   
   wwd.addLayer(new WorldWind.StarFieldLayer());  
   wwd.addLayer(new WorldWind.AtmosphereLayer()); 
- wwd.addLayer(new WorldWind.BingAerialWithLabelsLayer()); 
+     wwd.addLayer(new WorldWind.BingAerialWithLabelsLayer()); 
+  wwd.addLayer(new WorldWind.CompassLayer());
+  wwd.addLayer(new WorldWind.ViewControlsLayer(wwd));
   
   var markers = new WorldWind.RenderableLayer("Markers"); 
   wwd.addLayer(markers); 
