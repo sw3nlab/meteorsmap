@@ -107,10 +107,10 @@
     fetch("https://en.wikipedia.org/w/api.php?&origin=*&action=opensearch&search=" + o.userObject.label + "&limit=1").then(function(resp) {
      return resp.json()
     }).then(function(data) {   
-    popup.innerHTML += `<br> ` + o.userObject.label + `<br>`;
+    popup.innerHTML += `<br> <iframe src="` + o.userObject.label + `"></iframe><br>`;
    //  popup.innerHTML += `<br><iframe src="${data.pop()}"></iframe>`;
     });
-    popup.innerHTML = o.userObject.label + "<span id='close'>close</span>";
+    popup.innerHTML = o.userObject.label.replace('wikipedia','') + "<span id='close'>close</span>";
     popup.classList.add('visible');
   });
 </script>
