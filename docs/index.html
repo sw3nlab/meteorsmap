@@ -63,7 +63,9 @@
     var position = new WorldWind.Location(lat, lon); 
     var placemark = new WorldWind.Placemark(position, true, attributes);
    placemark.label = name.pop(); 
-
+    
+placemark.link = name.shift();
+    
     placemark.altitudeMode = WorldWind.CLAMP_TO_GROUND; 
     
     placemark.eyeDistanceScalingThreshold = 2500000; 
@@ -108,7 +110,7 @@
     fetch("https://en.wikipedia.org/w/api.php?&origin=*&action=opensearch&search=" + o.userObject.label + "&limit=1").then(function(resp) {
      return resp.json()
     }).then(function(data) {   
-    popup.innerHTML += `<br>` + o.userObject.label + `<br>`;
+    popup.innerHTML += `<br>` + o.userObject.link + `<br>`;
    //  popup.innerHTML += `<br><iframe src="${data.pop()}"></iframe>`;
     });
     // const regsp = /https\:\/\/[a-z]{2}\.wikipedia\.org\/wiki\//gm;
