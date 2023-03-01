@@ -60,9 +60,11 @@
   
   function placemark(lat, lon, name) {
    
+    const regsp = /https\:\/\/[a-z]{2}\.wikipedia\.org\/wiki\//gm;
+    
     var position = new WorldWind.Location(lat, lon); 
     var placemark = new WorldWind.Placemark(position, true, attributes);
-    placemark.label = name; 
+    placemark.label = name.replace(regsp,''); 
 
     placemark.altitudeMode = WorldWind.CLAMP_TO_GROUND; 
     
@@ -110,7 +112,7 @@
     popup.innerHTML += `<br> <iframe src="` + o.userObject.label + `"></iframe><br>`;
    //  popup.innerHTML += `<br><iframe src="${data.pop()}"></iframe>`;
     });
-     const regsp = /https\:\/\/[a-z]{2}\.wikipedia\.org\/wiki\//gm;
+     
     popup.innerHTML = o.userObject.label.replace(regsp,'') + "<span id='close'>close</span>";
     popup.classList.add('visible');
   });
