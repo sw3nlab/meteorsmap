@@ -70,6 +70,9 @@
     return placemark;
   }
 
+  function retlink(name){
+return name;
+  }
 
   wwd.addEventListener("mousemove", function(e) {
     var x = e.clientX,
@@ -109,7 +112,7 @@
      return resp.json()
     }).then(function(data) {
      // popup.innerHTML += `<br><iframe src="${data.pop()}"></iframe>`;
-   popup.innerHTML += `<br>${data.pop()}<br>`+ name + `<br>ok`;
+   popup.innerHTML += `<br>${data.pop()}<br>`+ retlink() +`<br>ok`;
     });
     popup.innerHTML = o.userObject.label + "<span id='close'>close</span>";
     popup.classList.add('visible');
