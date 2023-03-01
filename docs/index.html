@@ -60,11 +60,9 @@
   
   function placemark(lat, lon, name) {
    
-    const regsp = /https\:\/\/[a-z]{2}\.wikipedia\.org\/wiki\//gm;
-    
     var position = new WorldWind.Location(lat, lon); 
     var placemark = new WorldWind.Placemark(position, true, attributes);
-    placemark.label = name.replace(regsp,''); 
+    placemark.label = name; 
 
     placemark.altitudeMode = WorldWind.CLAMP_TO_GROUND; 
     
