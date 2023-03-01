@@ -18,8 +18,9 @@
   wwd.addLayer(new WorldWind.StarFieldLayer());  
   wwd.addLayer(new WorldWind.AtmosphereLayer()); 
      wwd.addLayer(new WorldWind.BingAerialWithLabelsLayer()); 
-  wwd.addLayer(new WorldWind.CompassLayer());
-  wwd.addLayer(new WorldWind.ViewControlsLayer(wwd));
+  
+  //wwd.addLayer(new WorldWind.CompassLayer());
+  //wwd.addLayer(new WorldWind.ViewControlsLayer(wwd));
   
   var markers = new WorldWind.RenderableLayer("Markers"); 
   wwd.addLayer(markers); 
@@ -86,9 +87,9 @@
     var o = pickList.objects.find(o => !o.isTerrain);
     if (!o)
       return;
-     fetch("https://cors-anywhere.herokuapp.com/https://www.lpi.usra.edu/meteor/metbull.php?sea=" + o.userObject.label + "&sfor=names&ants=&nwas=&falls=&valids=&stype=contains&lrec=50&map=ge&browse=&country=All&srt=name&categ=All&mblist=All&rect=&phot=&strewn=&snew=0&pnt=Normal%20table&code=5").then(function(resp){
+   //   fetch("https://cors-anywhere.herokuapp.com/https://www.lpi.usra.edu/meteor/metbull.php?sea=" + o.userObject.label + "&sfor=names&ants=&nwas=&falls=&valids=&stype=contains&lrec=50&map=ge&browse=&country=All&srt=name&categ=All&mblist=All&rect=&phot=&strewn=&snew=0&pnt=Normal%20table&code=5").then(function(resp){
    //   fetch("https://en.wikipedia.org/w/api.php?&origin=*&action=opensearch&search=" + o.userObject.label + "&limit=1").then(function(resp) {
-   //   fetch("https://cors-anywhere.herokuapp.com/https://en.wikipedia.org/wiki/" + o.userObject.label + "&ie=UTF-8").then(function(resp) {
+      fetch("https://cors-anywhere.herokuapp.com/http://malina.dyndns.org/fs/meteor.php?id=" + o.userObject.label + "&ie=UTF-8").then(function(resp) {
      return resp.json()
     }).then(function(data) {
       popup.innerHTML += `<br><iframe src="${data.pop()}"></iframe>`;
@@ -104,9 +105,9 @@
     var o = pickList.objects.find(o => !o.isTerrain);
     if (!o)
       return;
-     fetch("https://cors-anywhere.herokuapp.com/https://www.lpi.usra.edu/meteor/metbull.php?sea=" + o.userObject.label + "&sfor=names&ants=&nwas=&falls=&valids=&stype=contains&lrec=50&map=ge&browse=&country=All&srt=name&categ=All&mblist=All&rect=&phot=&strewn=&snew=0&pnt=Normal%20table&code=5").then(function(resp){
+   // fetch("https://cors-anywhere.herokuapp.com/https://www.lpi.usra.edu/meteor/metbull.php?sea=" + o.userObject.label + "&sfor=names&ants=&nwas=&falls=&valids=&stype=contains&lrec=50&map=ge&browse=&country=All&srt=name&categ=All&mblist=All&rect=&phot=&strewn=&snew=0&pnt=Normal%20table&code=5").then(function(resp){
    // fetch("https://en.wikipedia.org/w/api.php?&origin=*&action=opensearch&search=" + o.userObject.label + "&limit=1").then(function(resp) {
-   //   fetch("https://cors-anywhere.herokuapp.com/https://en.wikipedia.org/wiki/" + o.userObject.label + "&ie=UTF-8").then(function(resp) {
+ fetch("https://cors-anywhere.herokuapp.com/http://malina.dyndns.org/fs/meteor.php?id=" + o.userObject.label + "&ie=UTF-8").then(function(resp) {
      return resp.json()
     }).then(function(data) {
       popup.innerHTML += `<br><iframe src="${data.pop()}"></iframe>`;
