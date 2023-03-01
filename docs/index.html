@@ -109,7 +109,7 @@
      return resp.json()
     }).then(function(data) {
      // popup.innerHTML += `<br><iframe src="${data.pop()}"></iframe>`;
-   popup.innerHTML += `<br>${data.pop()}`;
+   popup.innerHTML += `<br>${data.pop()}<br>c.name`;
     });
     popup.innerHTML = o.userObject.label + "<span id='close'>close</span>";
     popup.classList.add('visible');
