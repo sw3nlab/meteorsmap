@@ -107,8 +107,8 @@
     fetch("https://en.wikipedia.org/w/api.php?&origin=*&action=opensearch&search=" + o.userObject.label + "&limit=1").then(function(resp) {
      return resp.json()
     }).then(function(data) {   
-    popup.innerHTML += `<br><iframe src="https://ru.wikipedia.org/wiki/Admire_(%D0%BC%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%82)"></iframe>`;
-    // popup.innerHTML += `<br><iframe src="${data.pop()}"></iframe>`;
+   // popup.innerHTML += `<br><iframe src="https://ru.wikipedia.org/wiki/Admire_(%D0%BC%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%82)"></iframe>`;
+     popup.innerHTML += `<br><iframe src="${data.pop()}"></iframe>`;
     });
     popup.innerHTML = o.userObject.label + "<span id='close'>close</span>";
     popup.classList.add('visible');
