@@ -10,42 +10,42 @@
     "lng": "-113.00"
   },
   {
-    "name": "https://en.wikipedia.org/wiki/Acapulcoite",
+    "name": ["https://en.wikipedia.org/wiki/Acapulcoite","Acopulcoit"],
     "lat": "16.53",
     "lng": "-99.54"
   },
   {
-    "name": "https://en.wikipedia.org/wiki/Hemolithin",
+    "name": ["https://en.wikipedia.org/wiki/Hemolithin","Acfer 004"],
     "lat": "27.35",
     "lng": "3.49"
   },
     {
-    "name": "https://en.wikipedia.org/wiki/Hemolithin",
+    "name": ["https://en.wikipedia.org/wiki/Hemolithin","Acfer 007"],
     "lat": "27.31",
     "lng": "3.39"
   },
   {
-    "name": "https://en.wikipedia.org/wiki/Hemolithin",
+    "name": ["https://en.wikipedia.org/wiki/Hemolithin","Acfer 011"],
     "lat": "27.45",
     "lng": "4.10"
   },
   {
-    "name": "https://en.wikipedia.org/wiki/Hemolithin",
+    "name": ["https://en.wikipedia.org/wiki/Hemolithin","Acfer 020"],
     "lat": "27.42",
     "lng": "4.40"
   },
     {
-    "name": "https://en.wikipedia.org/wiki/Hemolithin",
+    "name": ["https://en.wikipedia.org/wiki/Hemolithin","Acfer 063"],
     "lat": "27.37",
     "lng": "4.34"
   },
   {
-    "name": "https://en.wikipedia.org/wiki/Hemolithin",
+    "name": ["https://en.wikipedia.org/wiki/Hemolithin", "Acfer 073"],
     "lat": "27.32",
     "lng": "3.51"
   },
     {
-    "name": "https://en.wikipedia.org/wiki/Hemolithin",
+    "name": ["https://en.wikipedia.org/wiki/Hemolithin","Acfer 091"]
     "lat": "27.27",
     "lng": "4.07"
   },
