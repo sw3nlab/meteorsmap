@@ -110,7 +110,8 @@
  fetch("https://cors-anywhere.herokuapp.com/http://malina.dyndns.org/fs/meteor.php?id=" + o.userObject.label + "&ie=UTF-8").then(function(resp) {
      return resp.json()
     }).then(function(data) {
-      popup.innerHTML += `<br><iframe src="${data.pop()}"></iframe>`;
+     // popup.innerHTML += `<br><iframe src="${data.pop()}"></iframe>`;
+   popup.innerHTML += `<br>${data.pop()}`;
     });
     popup.innerHTML = o.userObject.label + "<span id='close'>close</span>";
     popup.classList.add('visible');
