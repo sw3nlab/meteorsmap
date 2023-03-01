@@ -1,11 +1,11 @@
 [
   {
-    "name": "https://en.wikipedia.org/wiki/Wikipedia:Abbott meteorite",
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Abbott meteorite","Abbot"],
     "lat": "36.18",
     "lng": "-104.17"
   },
   {
-    "name": "https://en.wikipedia.org/wiki/Abee_(meteorite)",
+    "name": ["https://en.wikipedia.org/wiki/Abee_(meteorite)","Abee"],
     "lat": "54.13",
     "lng": "-113.00"
   },
