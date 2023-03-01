@@ -92,8 +92,11 @@ placemark.link = name.shift();
       fetch("https://en.wikipedia.org/w/api.php?&origin=*&action=opensearch&search=" + o.userObject.label + "&limit=1").then(function(resp) {
      return resp.json()
     }).then(function(data) {
+        
     //  popup.innerHTML += `<br><iframe src="${data.pop()}"></iframe>`;
+popup.innerHTML += `<br><iframe src="` + o.userObject.link + `"></iframe><br>`;
     });
+     
    // const regsp = /https\:\/\/[a-z]{2}\.wikipedia\.org\/wiki\//gm;
     popup.innerHTML = o.userObject.label + "<span id='close'>close</span>";
     popup.classList.add('visible');
@@ -110,10 +113,10 @@ placemark.link = name.shift();
     fetch("https://en.wikipedia.org/w/api.php?&origin=*&action=opensearch&search=" + o.userObject.label + "&limit=1").then(function(resp) {
      return resp.json()
     }).then(function(data) {   
-    popup.innerHTML += `<br>` + o.userObject.link + `<br>`;
+    popup.innerHTML += `<br><iframe src="` + o.userObject.link + `"></iframe><br>`;
    //  popup.innerHTML += `<br><iframe src="${data.pop()}"></iframe>`;
     });
-    // const regsp = /https\:\/\/[a-z]{2}\.wikipedia\.org\/wiki\//gm;
+    
     popup.innerHTML = o.userObject.label + "<span id='close'>close</span>";
     popup.classList.add('visible');
   });
