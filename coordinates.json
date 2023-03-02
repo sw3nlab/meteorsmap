@@ -93,5 +93,30 @@
     "name": ["https://en.wikipedia.org/wiki/Adzhi-Bogdo","Adzhi-Dodgo (1949)"],
     "lat": "44.55",
     "lng": "95.10"
+  },
+  {
+    "name": ["https://en.wikipedia.org/wiki/Agen_(meteorite)","Agen (1814)"],
+    "lat": "44.13",
+    "lng": "0.37"
+  },
+  {
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Ahumada meteorite","Ahumada (1909)"],
+    "lat": "30.42",
+    "lng": "-105.30"
+  },
+   {
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Akmolla meteorite","Akmolla (1988)"],
+    "lat": "39.323",
+    "lng": "59.335"
+  },
+  {
+    "name": ["https://en.wikipedia.org/wiki/Alais_meteorite","Alais (1806)"],
+    "lat": "44.70",
+    "lng": "4.50"
+  },
+  {
+    "name": ["https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B8%D0%BD%D0%B8%D1%82%D0%B8%D1%82","Alamogordo (1938)"],
+    "lat": "32.54",
+    "lng": "-105.56"
   }
 ]
