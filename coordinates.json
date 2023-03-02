@@ -140,8 +140,33 @@
     "lng": "167.30"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Allan_Hills_84001","Allan Hills 76001 (1977)"],
+    "name": ["https://en.wikipedia.org/wiki/Allan_Hills_84001","Allan Hills (1984)"],
     "lat": "-76.45",
     "lng": "159.20"
+  },
+  {
+    "name": ["https://en.wikipedia.org/wiki/Allende_meteorite","Allende (1969)"],
+    "lat": "26.58",
+    "lng": "-105.19"
+  },
+  {
+    "name": ["https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%BA%D0%B0_(%D0%BC%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%82)","Andreevka (1969)"],
+    "lat": "48.42",
+    "lng": "37.30"
+  },
+   {
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Andryushki_(meteorite)","Andryushki (1896)"],
+    "lat": "49.39",
+    "lng": "29.38"
+  },
+  {
+    "name": ["https://en.wikipedia.org/wiki/Angra_dos_Reis_meteorite","Angra dos Reis (1869)"],
+    "lat": "-22.58",
+    "lng": "-44.19"
+  },
+  {
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Anson_(meteorite)","Anson (1972)"],
+    "lat": "39.20",
+    "lng": "-33.42"
   }
 ]
