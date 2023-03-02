@@ -193,5 +193,70 @@
     "name": ["https://uk.wikipedia.org/wiki/Arapahoe","Arapahoe (1940)"],
     "lat": "38.48",
     "lng": "-102.12"
+  },
+  {
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Arcadia_(meteorite)","Arcadia (1937)"],
+    "lat": "41.25",
+    "lng": "-99.6"
+  },
+  {
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Armanty_(meteorite)","Armanty (1896)"],
+    "lat": "47.00",
+    "lng": "88.00"
+  },
+   {
+    "name": ["https://ru.wikipedia.org/wiki/Armel_(%D0%BC%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%82)","Armel (1967)"],
+    "lat": "39.46",
+    "lng": "-102.8"
+  },
+  {
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Ashville_(meteorite)","Asheville (1839)"],
+    "lat": "35.35",
+    "lng": "-82.32"
+  },
+  {
+    "name": ["https://uk.wikipedia.org/wiki/Ashmore","Ashmore (1969)"],
+    "lat": "32.54",
+    "lng": "-102.17"
+  },
+  {
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Aswan_(meteorite)","Aswan (1955)"],
+    "lat": "23.5910",
+    "lng": "32.3725"
+  },
+  {
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Atlanta_(meteorite)","Atlanta (1938)"],
+    "lat": "31.48",
+    "lng": "-92.45"
+  },
+   {
+    "name": ["https://en.wikipedia.org/wiki/Aubrite","Aubres (1836)"],
+    "lat": "44.23",
+    "lng": "5.10"
+  },
+  {
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Augusta_Conty_(meteorite)","Augusta County (1858)"],
+    "lat": "38.10",
+    "lng": "-79.5"
+  },
+  {
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Augustinovka_(meteorite)","Augustinovka (1890)"],
+    "lat": "48.4",
+    "lng": "35.5"
+  },
+   {
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Aumale_(meteorite)","Aumale (1890)"],
+    "lat": "36.10",
+    "lng": "3.40"
+  },
+  {
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Ausson_(meteorite)","Ausson (1865)"],
+    "lat": "43.5",
+    "lng": "0.35"
+  },
+  {
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Axtell_(meteorite)","Axtell (1943)"],
+    "lat": "31.396",
+    "lng": "96.583"
   }
 ]
