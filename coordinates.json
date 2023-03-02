@@ -167,6 +167,31 @@
   {
     "name": ["https://en.wikipedia.org/wiki/Wikipedia:Anson_(meteorite)","Anson (1972)"],
     "lat": "39.20",
-    "lng": "-33.42"
+    "lng": "-97.3342"
+  },
+  {
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Anthony_(meteorite)","Anthony (1919)"],
+    "lat": "37.5",
+    "lng": "98.3"
+  },
+  {
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Anyujskij_(meteorite)","Anyujskij (1981)"],
+    "lat": "66.54",
+    "lng": "164.12"
+  },
+   {
+    "name": ["https://en.wikipedia.org/wiki/Appley_Bridge_meteorite","Appley Bridge (1914)"],
+    "lat": "53.35",
+    "lng": "-2.43"
+  },
+  {
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Aprelsky_(meteorite)","Aprelsky (1969)"],
+    "lat": "53.18",
+    "lng": "126.7"
+  },
+  {
+    "name": ["https://uk.wikipedia.org/wiki/Arapahoe","Arapahoe (1940)"],
+    "lat": "38.48",
+    "lng": "-102.12"
   }
 ]
