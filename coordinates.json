@@ -105,7 +105,7 @@
     "lng": "-105.30"
   },
    {
-    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Akmolla meteorite","Akmolla (1988)"],
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Akmolla_(meteorite)","Akmolla (1988)"],
     "lat": "39.323",
     "lng": "59.335"
   },
@@ -118,5 +118,30 @@
     "name": ["https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B8%D0%BD%D0%B8%D1%82%D0%B8%D1%82","Alamogordo (1938)"],
     "lat": "32.54",
     "lng": "-105.56"
+  },
+  {
+    "name": ["https://en.wikipedia.org/wiki/Albin_(meteorite)","Albin (1915)"],
+    "lat": "41.30",
+    "lng": "-104.6"
+  },
+  {
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Alexandrovsky_(meteorite)","Alexandrovsky (1900)"],
+    "lat": "50.57",
+    "lng": "31.49"
+  },
+   {
+    "name": ["https://ru.wikipedia.org/wiki/Alfianello_(%D0%BC%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%82)","Alfianello (1883)"],
+    "lat": "45.16",
+    "lng": "10.9"
+  },
+  {
+    "name": ["https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B8%D1%81%D0%BA%D0%B5%D1%80%D0%BE%D0%B2%D0%BE_(%D0%BC%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%82)","Aliskerovo (1977)"],
+    "lat": "67.53",
+    "lng": "167.30"
+  },
+  {
+    "name": ["https://en.wikipedia.org/wiki/Allan_Hills_84001","Allan Hills 76001 (1977)"],
+    "lat": "-76.45",
+    "lng": "159.20"
   }
 ]
