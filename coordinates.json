@@ -10,12 +10,12 @@
     "lng": "-113.00"
   },
   {
-    "name": "https://en.wikipedia.org/wiki/Acapulcoite",
+    "name": ["https://en.wikipedia.org/wiki/Acapulcoite","Acapulcoit"],
     "lat": "16.53",
     "lng": "-99.54"
   },
   {
-    "name": "https://en.wikipedia.org/wiki/Hemolithin",
+    "name": ["https://en.wikipedia.org/wiki/Hemolithin","Acfer 004"],
     "lat": "27.35",
     "lng": "3.49"
   },
