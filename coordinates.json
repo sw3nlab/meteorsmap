@@ -1,287 +1,287 @@
 [
   {
-    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Abbott meteorite","1951","Abbot"],
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Abbott meteorite","1951","US","Chondrite","Abbot"],
     "lat": "36.18",
     "lng": "-104.17"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Abee_(meteorite)","1952","Abee"],
+    "name": ["https://en.wikipedia.org/wiki/Abee_(meteorite)","CA","Chondrite","1952","Abee"],
     "lat": "54.13",
     "lng": "-113.00"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Acapulcoite","1976","Acapulcoit"],
+    "name": ["https://en.wikipedia.org/wiki/Acapulcoite","MX","Chondrite","1976","Acapulcoit"],
     "lat": "16.53",
     "lng": "-99.54"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Hemolithin","1989","Acfer 004"],
+    "name": ["https://en.wikipedia.org/wiki/Hemolithin","DZ","Chondrite","1989","Acfer 004"],
     "lat": "27.35",
     "lng": "3.49"
   },
     {
-    "name": ["https://en.wikipedia.org/wiki/Hemolithin","1989","Acfer 007"],
+    "name": ["https://en.wikipedia.org/wiki/Hemolithin","DZ","Chondrite","1989","Acfer 007"],
     "lat": "27.31",
     "lng": "3.39"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Hemolithin","1989","Acfer 011"],
+    "name": ["https://en.wikipedia.org/wiki/Hemolithin","DZ","Chondrite","1989","Acfer 011"],
     "lat": "27.45",
     "lng": "4.10"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Hemolithin","1989","Acfer 020"],
+    "name": ["https://en.wikipedia.org/wiki/Hemolithin","DZ","Chondrite","1989","Acfer 020"],
     "lat": "27.42",
     "lng": "4.40"
   },
     {
-    "name": ["https://en.wikipedia.org/wiki/Hemolithin","1989","Acfer 063"],
+    "name": ["https://en.wikipedia.org/wiki/Hemolithin","DZ","Mesosiderite","1989","Acfer 063"],
     "lat": "27.37",
     "lng": "4.34"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Hemolithin","1989","Acfer 073"],
+    "name": ["https://en.wikipedia.org/wiki/Hemolithin","DZ","Chondrite","1989","Acfer 073"],
     "lat": "27.32",
     "lng": "3.51"
   },
     {
-    "name": ["https://en.wikipedia.org/wiki/Hemolithin","1989","Acfer 091"],
+    "name": ["https://en.wikipedia.org/wiki/Hemolithin","DZ","Chondrite","1989","Acfer 091"],
     "lat": "27.27",
     "lng": "4.07"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Hemolithin","1989","Acfer 124"],
+    "name": ["https://en.wikipedia.org/wiki/Hemolithin","DZ","Chondrite","1989","Acfer 124"],
     "lat": "27.36",
     "lng": "4.03"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Hemolithin","1989","Acfer 166"],
+    "name": ["https://en.wikipedia.org/wiki/Hemolithin","DZ","Chondrite","1989","Acfer 166"],
     "lat": "27.31",
     "lng": "4.14"
   },
     {
-    "name": ["https://en.wikipedia.org/wiki/Hemolithin","1989","Acfer 177"],
+    "name": ["https://en.wikipedia.org/wiki/Hemolithin","DZ","Chondrite","1989","Acfer 177"],
     "lat": "27.29",
     "lng": "3.51"
   },
     {
-    "name": ["https://en.wikipedia.org/wiki/Hemolithin","1989","Acfer 202"],
+    "name": ["https://en.wikipedia.org/wiki/Hemolithin","DZ","Chondrite","1989","Acfer 202"],
     "lat": "27.305",
     "lng": "3.361"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Hemolithin","1989","Acfer 214"],
+    "name": ["https://en.wikipedia.org/wiki/Hemolithin","DZ","Stone","1989","Acfer 214"],
     "lat": "27.414",
     "lng": "4.2272"
   },
   {
-    "name": ["https://ru.wikipedia.org/wiki/Adams_County_(%D0%BC%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%82)","1928","Adams County"],
+    "name": ["https://ru.wikipedia.org/wiki/Adams_County_(%D0%BC%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%82)","US","Chondrite","1928","Adams County"],
     "lat": "39.58",
     "lng": "-103.46"
   },
    {
-    "name": ["https://en.wikipedia.org/wiki/Adhi_Kot_(meteorite)","1919","Adhi-Kot"],
+    "name": ["https://en.wikipedia.org/wiki/Adhi_Kot_(meteorite)","PK","Chondrite","1919","Adhi-Kot"],
     "lat": "32.60",
     "lng": "71.48"
   },
   {
-    "name": ["https://ru.wikipedia.org/wiki/Admire_(%D0%BC%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%82)","1881","Admire"],
+    "name": ["https://ru.wikipedia.org/wiki/Admire_(%D0%BC%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%82)","US","Pallasite","1881","Admire"],
     "lat": "38.42",
     "lng": "-96.60"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Adzhi-Bogdo","1949","Adzhi-Dodgo"],
+    "name": ["https://en.wikipedia.org/wiki/Adzhi-Bogdo","MN","Chondrite","1949","Adzhi-Dodgo"],
     "lat": "44.55",
     "lng": "95.10"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Agen_(meteorite)","1814","Agen"],
+    "name": ["https://en.wikipedia.org/wiki/Agen_(meteorite)","FR","Chondrite","1814","Agen"],
     "lat": "44.13",
     "lng": "0.37"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Ahumada meteorite","1909","Ahumada"],
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Ahumada meteorite","MX","Pallasite","1909","Ahumada"],
     "lat": "30.42",
     "lng": "-105.30"
   },
    {
-    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Akmolla_(meteorite)","1988","Akmolla"],
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Akmolla_(meteorite)","TM","Chondrite","1988","Akmolla"],
     "lat": "39.323",
     "lng": "59.335"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Alais_meteorite","1806","Alais"],
+    "name": ["https://en.wikipedia.org/wiki/Alais_meteorite","FR","Chondrite","1806","Alais"],
     "lat": "44.70",
     "lng": "4.50"
   },
   {
-    "name": ["https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B8%D0%BD%D0%B8%D1%82%D0%B8%D1%82","1938","Alamogordo"],
+    "name": ["https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B8%D0%BD%D0%B8%D1%82%D0%B8%D1%82","US","Chondrite","1938","Alamogordo"],
     "lat": "32.54",
     "lng": "-105.56"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Albin_(meteorite)","1915","Albin"],
+    "name": ["https://en.wikipedia.org/wiki/Albin_(meteorite)","US","Pallasite","1915","Albin"],
     "lat": "41.30",
     "lng": "-104.6"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Alexandrovsky_(meteorite)","1900","Alexandrovsky"],
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Alexandrovsky_(meteorite)","UA","Chondrite","1900","Alexandrovsky"],
     "lat": "50.57",
     "lng": "31.49"
   },
    {
-    "name": ["https://ru.wikipedia.org/wiki/Alfianello_(%D0%BC%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%82)","1883","Alfianello"],
+    "name": ["https://ru.wikipedia.org/wiki/Alfianello_(%D0%BC%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%82)","IT","Chondrite","1883","Alfianello"],
     "lat": "45.16",
     "lng": "10.9"
   },
   {
-    "name": ["https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B8%D1%81%D0%BA%D0%B5%D1%80%D0%BE%D0%B2%D0%BE_(%D0%BC%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%82)","1977","Aliskerovo"],
+    "name": ["https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B8%D1%81%D0%BA%D0%B5%D1%80%D0%BE%D0%B2%D0%BE_(%D0%BC%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%82)","RU","Iron","1977","Aliskerovo"],
     "lat": "67.53",
     "lng": "167.30"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Allan_Hills_84001","1984","Allan Hills"],
+    "name": ["https://en.wikipedia.org/wiki/Allan_Hills_84001","AQ","Chondrite","1984","Allan Hills"],
     "lat": "-76.45",
     "lng": "159.20"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Allende_meteorite","1969","Allende"],
+    "name": ["https://en.wikipedia.org/wiki/Allende_meteorite","MX","Chondrite","1969","Allende"],
     "lat": "26.58",
     "lng": "-105.19"
   },
   {
-    "name": ["https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%BA%D0%B0_(%D0%BC%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%82)","1969","Andreevka"],
+    "name": ["https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%BA%D0%B0_(%D0%BC%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%82)","UA","Chondrite","1969","Andreevka"],
     "lat": "48.42",
     "lng": "37.30"
   },
    {
-    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Andryushki_(meteorite)","1896","Andryushki"],
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Andryushki_(meteorite)","UA","Chondrite","1896","Andryushki"],
     "lat": "49.39",
     "lng": "29.38"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Angra_dos_Reis_meteorite","1869","Angra dos Reis"],
+    "name": ["https://en.wikipedia.org/wiki/Angra_dos_Reis_meteorite","BR","Achondrite","1869","Angra dos Reis"],
     "lat": "-22.58",
     "lng": "-44.19"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Anson_(meteorite)","1972","Anson"],
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Anson_(meteorite)","US","Chondrite","1972","Anson"],
     "lat": "39.20",
     "lng": "-97.3342"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Anthony_(meteorite)","1919","Anthony"],
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Anthony_(meteorite)","US","Chondrite","1919","Anthony"],
     "lat": "37.5",
     "lng": "98.3"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Anyujskij_(meteorite)","1981","Anyujskij"],
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Anyujskij_(meteorite)","RU","Iron","1981","Anyujskij"],
     "lat": "66.54",
     "lng": "164.12"
   },
    {
-    "name": ["https://en.wikipedia.org/wiki/Appley_Bridge_meteorite","1914","Appley Bridge"],
+    "name": ["https://en.wikipedia.org/wiki/Appley_Bridge_meteorite","GB","Chondrite","1914","Appley Bridge"],
     "lat": "53.35",
     "lng": "-2.43"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Aprelsky_(meteorite)","1969","Aprelsky"],
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Aprelsky_(meteorite)","RU","Iron","1969","Aprelsky"],
     "lat": "53.18",
     "lng": "126.7"
   },
   {
-    "name": ["https://uk.wikipedia.org/wiki/Arapahoe","1940","Arapahoe"],
+    "name": ["https://uk.wikipedia.org/wiki/Arapahoe","US","Chondrite","1940","Arapahoe"],
     "lat": "38.48",
     "lng": "-102.12"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Arcadia_(meteorite)","1937","Arcadia"],
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Arcadia_(meteorite)","US","Chondrite","1937","Arcadia"],
     "lat": "41.25",
     "lng": "-99.6"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Armanty_(meteorite)","1896","Armanty"],
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Armanty_(meteorite)","CN","Iron","1896","Armanty"],
     "lat": "47.00",
     "lng": "88.00"
   },
    {
-    "name": ["https://ru.wikipedia.org/wiki/Armel_(%D0%BC%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%82)","1967","Armel"],
+    "name": ["https://ru.wikipedia.org/wiki/Armel_(%D0%BC%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%82)","US","Chondrite","1967","Armel"],
     "lat": "39.46",
     "lng": "-102.8"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Ashville_(meteorite)","1839","Asheville"],
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Ashville_(meteorite)","US","Iron","1839","Asheville"],
     "lat": "35.35",
     "lng": "-82.32"
   },
   {
-    "name": ["https://uk.wikipedia.org/wiki/Ashmore","1969","Ashmore"],
+    "name": ["https://uk.wikipedia.org/wiki/Ashmore","US","Chondrite","1969","Ashmore"],
     "lat": "32.54",
     "lng": "-102.17"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Aswan_(meteorite)","1955","Aswan"],
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Aswan_(meteorite)","EG","Iron","1955","Aswan"],
     "lat": "23.5910",
     "lng": "32.3725"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Atlanta_(meteorite)","1938","Atlanta"],
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Atlanta_(meteorite)","US","Chondrite","1938","Atlanta"],
     "lat": "31.48",
     "lng": "-92.45"
   },
    {
-    "name": ["https://en.wikipedia.org/wiki/Aubrite","1836","Aubres"],
+    "name": ["https://en.wikipedia.org/wiki/Aubrite","FR","Achondrite","1836","Aubres"],
     "lat": "44.23",
     "lng": "5.10"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Augusta_Conty_(meteorite)","1858","Augusta County"],
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Augusta_Conty_(meteorite)","US","Iron","1858","Augusta County"],
     "lat": "38.10",
     "lng": "-79.5"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Augustinovka_(meteorite)","1890","Augustinovka"],
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Augustinovka_(meteorite)","UA","Iron","1890","Augustinovka"],
     "lat": "48.4",
     "lng": "35.5"
   },
    {
-    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Aumale_(meteorite)","1890","Aumale"],
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Aumale_(meteorite)","DZ","Chondrite","1890","Aumale"],
     "lat": "36.10",
     "lng": "3.40"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Ausson_(meteorite)","1865","Ausson"],
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Ausson_(meteorite)","FR","Chondrite","1865","Ausson"],
     "lat": "43.5",
     "lng": "0.35"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Axtell_(meteorite)","1943","Axtell"],
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Axtell_(meteorite)","US","Chondrite","1943","Axtell"],
     "lat": "31.396",
     "lng": "96.583"
   }
   ,
   {
-    "name": ["","1842","Babbs Mill"],
+    "name": ["","US","Iron","1842","Babbs Mill"],
     "lat": "36.18",
     "lng": "-82.53"
   },
   {
-    "name": ["","1814","Bachmut"],
+    "name": ["","UA","Chondrite","1814","Bachmut"],
     "lat": "48.36",
     "lng": "38.0"
   },
    {
-    "name": ["","1892","Ballinoo"],
-    "lat": "-27.42",
-    "lng": "115.46"
+    "name": ["","TM","Chondrite","1978","Bakhardok"],
+    "lat": "38.36",
+    "lng": "58.00"
   },
   {
-    "name": ["","1892","Bansur"],
+    "name": ["","AU","Iron","1892","Ballinoo"],
     "lat": "27.42",
     "lng": "76.20"
   },
   {
-    "name": ["","1933","Banten"],
+    "name": ["","IN","Chondrite","1892","Bansur"],
     "lat": "31.396",
     "lng": "96.583"
   }
