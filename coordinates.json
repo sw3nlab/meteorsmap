@@ -1,261 +1,287 @@
 [
   {
-    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Abbott meteorite","Abbot (1951)"],
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Abbott meteorite","1951","Abbot"],
     "lat": "36.18",
     "lng": "-104.17"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Abee_(meteorite)","Abee (1952)"],
+    "name": ["https://en.wikipedia.org/wiki/Abee_(meteorite)","1952","Abee"],
     "lat": "54.13",
     "lng": "-113.00"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Acapulcoite","Acapulcoit (1976)"],
+    "name": ["https://en.wikipedia.org/wiki/Acapulcoite","1976","Acapulcoit"],
     "lat": "16.53",
     "lng": "-99.54"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Hemolithin","Acfer 004 (1989)"],
+    "name": ["https://en.wikipedia.org/wiki/Hemolithin","1989","Acfer 004"],
     "lat": "27.35",
     "lng": "3.49"
   },
     {
-    "name": ["https://en.wikipedia.org/wiki/Hemolithin","Acfer 007 (1989)"],
+    "name": ["https://en.wikipedia.org/wiki/Hemolithin","1989","Acfer 007"],
     "lat": "27.31",
     "lng": "3.39"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Hemolithin","Acfer 011 (1989)"],
+    "name": ["https://en.wikipedia.org/wiki/Hemolithin","1989","Acfer 011"],
     "lat": "27.45",
     "lng": "4.10"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Hemolithin","Acfer 020 (1989)"],
+    "name": ["https://en.wikipedia.org/wiki/Hemolithin","1989","Acfer 020"],
     "lat": "27.42",
     "lng": "4.40"
   },
     {
-    "name": ["https://en.wikipedia.org/wiki/Hemolithin","Acfer 063 (1989)"],
+    "name": ["https://en.wikipedia.org/wiki/Hemolithin","1989","Acfer 063"],
     "lat": "27.37",
     "lng": "4.34"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Hemolithin","Acfer 073 (1989)"],
+    "name": ["https://en.wikipedia.org/wiki/Hemolithin","1989","Acfer 073"],
     "lat": "27.32",
     "lng": "3.51"
   },
     {
-    "name": ["https://en.wikipedia.org/wiki/Hemolithin","Acfer 091 (1989)"],
+    "name": ["https://en.wikipedia.org/wiki/Hemolithin","1989","Acfer 091"],
     "lat": "27.27",
     "lng": "4.07"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Hemolithin","Acfer 124 (1989)"],
+    "name": ["https://en.wikipedia.org/wiki/Hemolithin","1989","Acfer 124"],
     "lat": "27.36",
     "lng": "4.03"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Hemolithin","Acfer 166 (1989)"],
+    "name": ["https://en.wikipedia.org/wiki/Hemolithin","1989","Acfer 166"],
     "lat": "27.31",
     "lng": "4.14"
   },
     {
-    "name": ["https://en.wikipedia.org/wiki/Hemolithin","Acfer 177 (1989)"],
+    "name": ["https://en.wikipedia.org/wiki/Hemolithin","1989","Acfer 177"],
     "lat": "27.29",
     "lng": "3.51"
   },
     {
-    "name": ["https://en.wikipedia.org/wiki/Hemolithin","Acfer 202 (1989)"],
+    "name": ["https://en.wikipedia.org/wiki/Hemolithin","1989","Acfer 202"],
     "lat": "27.305",
     "lng": "3.361"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Hemolithin","Acfer 214 (1989)"],
+    "name": ["https://en.wikipedia.org/wiki/Hemolithin","1989","Acfer 214"],
     "lat": "27.414",
     "lng": "4.2272"
   },
   {
-    "name": ["https://ru.wikipedia.org/wiki/Adams_County_(%D0%BC%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%82)","Adams County (1928)"],
+    "name": ["https://ru.wikipedia.org/wiki/Adams_County_(%D0%BC%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%82)","1928","Adams County"],
     "lat": "39.58",
     "lng": "-103.46"
   },
    {
-    "name": ["https://en.wikipedia.org/wiki/Adhi_Kot_(meteorite)","Adhi-Kot (1919)"],
+    "name": ["https://en.wikipedia.org/wiki/Adhi_Kot_(meteorite)","1919","Adhi-Kot"],
     "lat": "32.60",
     "lng": "71.48"
   },
   {
-    "name": ["https://ru.wikipedia.org/wiki/Admire_(%D0%BC%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%82)","Admire (1881)"],
+    "name": ["https://ru.wikipedia.org/wiki/Admire_(%D0%BC%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%82)","1881","Admire"],
     "lat": "38.42",
     "lng": "-96.60"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Adzhi-Bogdo","Adzhi-Dodgo (1949)"],
+    "name": ["https://en.wikipedia.org/wiki/Adzhi-Bogdo","1949","Adzhi-Dodgo"],
     "lat": "44.55",
     "lng": "95.10"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Agen_(meteorite)","Agen (1814)"],
+    "name": ["https://en.wikipedia.org/wiki/Agen_(meteorite)","1814","Agen"],
     "lat": "44.13",
     "lng": "0.37"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Ahumada meteorite","Ahumada (1909)"],
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Ahumada meteorite","1909","Ahumada"],
     "lat": "30.42",
     "lng": "-105.30"
   },
    {
-    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Akmolla_(meteorite)","Akmolla (1988)"],
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Akmolla_(meteorite)","1988","Akmolla"],
     "lat": "39.323",
     "lng": "59.335"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Alais_meteorite","Alais (1806)"],
+    "name": ["https://en.wikipedia.org/wiki/Alais_meteorite","1806","Alais"],
     "lat": "44.70",
     "lng": "4.50"
   },
   {
-    "name": ["https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B8%D0%BD%D0%B8%D1%82%D0%B8%D1%82","Alamogordo (1938)"],
+    "name": ["https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B8%D0%BD%D0%B8%D1%82%D0%B8%D1%82","1938","Alamogordo"],
     "lat": "32.54",
     "lng": "-105.56"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Albin_(meteorite)","Albin (1915)"],
+    "name": ["https://en.wikipedia.org/wiki/Albin_(meteorite)","1915","Albin"],
     "lat": "41.30",
     "lng": "-104.6"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Alexandrovsky_(meteorite)","Alexandrovsky (1900)"],
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Alexandrovsky_(meteorite)","1900","Alexandrovsky"],
     "lat": "50.57",
     "lng": "31.49"
   },
    {
-    "name": ["https://ru.wikipedia.org/wiki/Alfianello_(%D0%BC%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%82)","Alfianello (1883)"],
+    "name": ["https://ru.wikipedia.org/wiki/Alfianello_(%D0%BC%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%82)","1883","Alfianello"],
     "lat": "45.16",
     "lng": "10.9"
   },
   {
-    "name": ["https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B8%D1%81%D0%BA%D0%B5%D1%80%D0%BE%D0%B2%D0%BE_(%D0%BC%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%82)","Aliskerovo (1977)"],
+    "name": ["https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B8%D1%81%D0%BA%D0%B5%D1%80%D0%BE%D0%B2%D0%BE_(%D0%BC%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%82)","1977","Aliskerovo"],
     "lat": "67.53",
     "lng": "167.30"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Allan_Hills_84001","Allan Hills (1984)"],
+    "name": ["https://en.wikipedia.org/wiki/Allan_Hills_84001","1984","Allan Hills"],
     "lat": "-76.45",
     "lng": "159.20"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Allende_meteorite","Allende (1969)"],
+    "name": ["https://en.wikipedia.org/wiki/Allende_meteorite","1969","Allende"],
     "lat": "26.58",
     "lng": "-105.19"
   },
   {
-    "name": ["https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%BA%D0%B0_(%D0%BC%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%82)","Andreevka (1969)"],
+    "name": ["https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%BA%D0%B0_(%D0%BC%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%82)","1969","Andreevka"],
     "lat": "48.42",
     "lng": "37.30"
   },
    {
-    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Andryushki_(meteorite)","Andryushki (1896)"],
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Andryushki_(meteorite)","1896","Andryushki"],
     "lat": "49.39",
     "lng": "29.38"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Angra_dos_Reis_meteorite","Angra dos Reis (1869)"],
+    "name": ["https://en.wikipedia.org/wiki/Angra_dos_Reis_meteorite","1869","Angra dos Reis"],
     "lat": "-22.58",
     "lng": "-44.19"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Anson_(meteorite)","Anson (1972)"],
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Anson_(meteorite)","1972","Anson"],
     "lat": "39.20",
     "lng": "-97.3342"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Anthony_(meteorite)","Anthony (1919)"],
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Anthony_(meteorite)","1919","Anthony"],
     "lat": "37.5",
     "lng": "98.3"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Anyujskij_(meteorite)","Anyujskij (1981)"],
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Anyujskij_(meteorite)","1981","Anyujskij"],
     "lat": "66.54",
     "lng": "164.12"
   },
    {
-    "name": ["https://en.wikipedia.org/wiki/Appley_Bridge_meteorite","Appley Bridge (1914)"],
+    "name": ["https://en.wikipedia.org/wiki/Appley_Bridge_meteorite","1914","Appley Bridge"],
     "lat": "53.35",
     "lng": "-2.43"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Aprelsky_(meteorite)","Aprelsky (1969)"],
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Aprelsky_(meteorite)","1969","Aprelsky"],
     "lat": "53.18",
     "lng": "126.7"
   },
   {
-    "name": ["https://uk.wikipedia.org/wiki/Arapahoe","Arapahoe (1940)"],
+    "name": ["https://uk.wikipedia.org/wiki/Arapahoe","1940","Arapahoe"],
     "lat": "38.48",
     "lng": "-102.12"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Arcadia_(meteorite)","Arcadia (1937)"],
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Arcadia_(meteorite)","1937","Arcadia"],
     "lat": "41.25",
     "lng": "-99.6"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Armanty_(meteorite)","Armanty (1896)"],
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Armanty_(meteorite)","1896","Armanty"],
     "lat": "47.00",
     "lng": "88.00"
   },
    {
-    "name": ["https://ru.wikipedia.org/wiki/Armel_(%D0%BC%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%82)","Armel (1967)"],
+    "name": ["https://ru.wikipedia.org/wiki/Armel_(%D0%BC%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%82)","1967","Armel"],
     "lat": "39.46",
     "lng": "-102.8"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Ashville_(meteorite)","Asheville (1839)"],
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Ashville_(meteorite)","1839","Asheville"],
     "lat": "35.35",
     "lng": "-82.32"
   },
   {
-    "name": ["https://uk.wikipedia.org/wiki/Ashmore","Ashmore (1969)"],
+    "name": ["https://uk.wikipedia.org/wiki/Ashmore","1969","Ashmore"],
     "lat": "32.54",
     "lng": "-102.17"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Aswan_(meteorite)","Aswan (1955)"],
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Aswan_(meteorite)","1955","Aswan"],
     "lat": "23.5910",
     "lng": "32.3725"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Atlanta_(meteorite)","Atlanta (1938)"],
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Atlanta_(meteorite)","1938","Atlanta"],
     "lat": "31.48",
     "lng": "-92.45"
   },
    {
-    "name": ["https://en.wikipedia.org/wiki/Aubrite","Aubres (1836)"],
+    "name": ["https://en.wikipedia.org/wiki/Aubrite","1836","Aubres"],
     "lat": "44.23",
     "lng": "5.10"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Augusta_Conty_(meteorite)","Augusta County (1858)"],
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Augusta_Conty_(meteorite)","1858","Augusta County"],
     "lat": "38.10",
     "lng": "-79.5"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Augustinovka_(meteorite)","Augustinovka (1890)"],
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Augustinovka_(meteorite)","1890","Augustinovka"],
     "lat": "48.4",
     "lng": "35.5"
   },
    {
-    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Aumale_(meteorite)","Aumale (1890)"],
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Aumale_(meteorite)","1890","Aumale"],
     "lat": "36.10",
     "lng": "3.40"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Ausson_(meteorite)","Ausson (1865)"],
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Ausson_(meteorite)","1865","Ausson"],
     "lat": "43.5",
     "lng": "0.35"
   },
   {
-    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Axtell_(meteorite)","Axtell (1943)"],
+    "name": ["https://en.wikipedia.org/wiki/Wikipedia:Axtell_(meteorite)","1943","Axtell"],
+    "lat": "31.396",
+    "lng": "96.583"
+  }
+  ,
+  {
+    "name": ["","1842","Babbs Mill"],
+    "lat": "36.18",
+    "lng": "-82.53"
+  },
+  {
+    "name": ["","1814","Bachmut"],
+    "lat": "48.36",
+    "lng": "38.0"
+  },
+   {
+    "name": ["","1892","Ballinoo"],
+    "lat": "-27.42",
+    "lng": "115.46"
+  },
+  {
+    "name": ["","1892","Bansur"],
+    "lat": "27.42",
+    "lng": "76.20"
+  },
+  {
+    "name": ["","1933","Banten"],
     "lat": "31.396",
     "lng": "96.583"
   }
