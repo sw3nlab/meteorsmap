@@ -258,8 +258,7 @@
     "name": ["https://en.wikipedia.org/wiki/Wikipedia:Axtell_(meteorite)","US","Chondrite","1943","Axtell"],
     "lat": "31.396",
     "lng": "96.583"
-  }
-  ,
+  },
   {
     "name": ["","US","Iron","1842","Babbs Mill"],
     "lat": "36.18",
@@ -277,12 +276,37 @@
   },
   {
     "name": ["","AU","Iron","1892","Ballinoo"],
+    "lat": "-27.42",
+    "lng": "115.46"
+  },
+  {
+    "name": ["","IN","Chondrite","1892","Bansur"],
     "lat": "27.42",
     "lng": "76.20"
   },
   {
-    "name": ["","IN","Chondrite","1892","Bansur"],
-    "lat": "31.396",
-    "lng": "96.583"
+    "name": ["","","Chondrite","1933","Banten"],
+    "lat": "-6.20",
+    "lng": "106.0"
+  },
+  {
+    "name": ["","FR","Chondrite","1790","Barbotan"],
+    "lat": "43.57",
+    "lng": "-0.30"
+  },
+   {
+    "name": ["","RU","Chondrite","1904","Barnaul"],
+    "lat": "52.44",
+    "lng": "84.50"
+  },
+  {
+    "name": ["","AU","Chondrite","1945","Barratta"],
+    "lat": "-35.18",
+    "lng": "144.34"
+  },
+  {
+    "name": ["","GB","Chondrite","1965","Barwell"],
+    "lat": "52.34",
+    "lng": "-1.20"
   }
 ]
