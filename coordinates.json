@@ -383,5 +383,30 @@
     "name": ["","US","Achondrite","1843","Bishopville"],
     "lat": "34.10",
     "lng": "-80.17"
+  },
+  {
+    "name": ["","DE","Iron","1805","Bitburg"],
+    "lat": "49.58",
+    "lng": "6.32"
+  },
+  {
+    "name": ["","UA","Chondrite","1796","Bjelaja Zerkov"],
+    "lat": "49.47",
+    "lng": "30.10"
+  },
+   {
+    "name": ["","FI","Chondrite","1899","Bjurbole"],
+    "lat": "60.24",
+    "lng": "25.48"
+  },
+  {
+    "name": ["","US","Chondrite","1970","Bledsoe"],
+    "lat": "33.3530",
+    "lng": "-103.136"
+  },
+  {
+    "name": ["","US","Chondrite","1878","Bluff"],
+    "lat": "29.54",
+    "lng": "-96.48"
   }
 ]
