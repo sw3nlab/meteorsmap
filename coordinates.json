@@ -308,5 +308,80 @@
     "name": ["","GB","Chondrite","1965","Barwell"],
     "lat": "52.34",
     "lng": "-1.20"
+  },
+  {
+    "name": ["","US","Chondrite","1892","Bath"],
+    "lat": "45.25",
+    "lng": "-98.19"
+  },
+  {
+    "name": ["","US","Chondrite","1902","Bath Furnace"],
+    "lat": "38.15",
+    "lng": "-83.45"
+  },
+   {
+    "name": ["","US","Chondrite","1940","Beaver"],
+    "lat": "36.48",
+    "lng": "-100.32"
+  },
+  {
+    "name": ["","US","Chondrite","1930","Beeler"],
+    "lat": "38.32",
+    "lng": "-100.13"
+  },
+  {
+    "name": ["","AU","Mesosiderit","1930","Bencubbin"],
+    "lat": "-30.45",
+    "lng": "117.47"
+  },
+  {
+    "name": ["","BR","Iron","1784","Bendego"],
+    "lat": "-10.7",
+    "lng": "-39.12"
+  },
+  {
+    "name": ["","US","Iron","1970","Benedict"],
+    "lat": "41.00",
+    "lng": "-97.32"
+  },
+   {
+    "name": ["","UA","Chondrite","1843","Berdyansk"],
+    "lat": "46.45",
+    "lng": "36.49"
+  },
+  {
+    "name": ["","IN","Achondrite","1905","Bholghati"],
+    "lat": "22.50",
+    "lng": "86.54"
+  },
+  {
+    "name": ["","PL","Achondrite","1827","Bialystok"],
+    "lat": "53.60",
+    "lng": "23.12"
+  },
+  {
+    "name": ["","UA","Chondrite","1887","Bielokrynitscie"],
+    "lat": "50.80",
+    "lng": "27.10"
+  },
+  {
+    "name": ["","RU","Iron","1981","Bilibino"],
+    "lat": "67.18",
+    "lng": "160.48"
+  },
+   {
+    "name": ["","KZ","Iron","1888","Bischtube"],
+    "lat": "51.57",
+    "lng": "62.12"
+  },
+  {
+    "name": ["","US","Iron","1912","Bishop Canyon"],
+    "lat": "38.00",
+    "lng": "-108.30"
+  },
+  {
+    "name": ["","US","Achondrite","1843","Bishopville"],
+    "lat": "34.10",
+    "lng": "-80.17"
   }
 ]
