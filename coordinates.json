@@ -538,5 +538,105 @@
     "name": ["","IN","Chondrite","1861","Butsura"],
     "lat": "27.50",
     "lng": "84.50"
+  },
+  {
+    "name": ["","ES","Chondrite","1870","Cabezo de Mayo"],
+    "lat": "37.59",
+    "lng": "-1.10"
+  },
+  {
+    "name": ["","US","Iron","1987","Caddo County"],
+    "lat": "35.00",
+    "lng": "98.20"
+  },
+   {
+    "name": ["","US","Chondrite","1958","Calliham"],
+    "lat": "28.25",
+    "lng": "-98.15"
+  },
+  {
+    "name": ["","US","Iron","1818","Cambria"],
+    "lat": "43.12",
+    "lng": "-78.48"
+  },
+  {
+    "name": ["","AU","Achondrite","1984","Camel Donga"],
+    "lat": "-30.19",
+    "lng": "126.37"
+  },
+  {
+    "name": ["","AR","Iron","1576","Campo del Cielo"],
+    "lat": "-27.28",
+    "lng": "-60.35"
+  },
+  {
+    "name": ["","US","Iron","1891","Canyon Diablo"],
+    "lat": "35.30",
+    "lng": "-111.20"
+  },
+   {
+    "name": ["","GL","Iron","1818","Cape York"],
+    "lat": "76.80",
+    "lng": "-64.56"
+  },
+  {
+    "name": ["","MX","Iron","1867","Casas Grandes"],
+    "lat": "30.24",
+    "lng": "-107.48"
+  },
+  {
+    "name": ["","MX","Chondrite","1988","Ceniceros"],
+    "lat": "-26.28",
+    "lng": "-105.14"
+  },
+  {
+    "name": ["","IT","Chondrite","1840","Cereseto"],
+    "lat": "45.50",
+    "lng": "8.18"
+  },
+  {
+    "name": ["","IN","Chondrite","1907","Chainpur"],
+    "lat": "25.51",
+    "lng": "83.29"
+  },
+   {
+    "name": ["","US","Chondrite","1936","Channing"],
+    "lat": "35.43",
+    "lng": "-102.17"
+  },
+  {
+    "name": ["","FR","Chondrite","1812","Chantonnay"],
+    "lat": "46.41",
+    "lng": "1.30"
+  },
+  {
+    "name": ["","MX","Iron","1804","Charcas"],
+    "lat": "23.50",
+    "lng": "-101.10"
+  },
+  {
+    "name": ["","FR","Chondrite","1810","Charsonville"],
+    "lat": "47.56",
+    "lng": "1.34"
+  },
+  {
+    "name": ["","FR","Achondrite","1815","Chassigny"],
+    "lat": "47.43",
+    "lng": "5.22"
+  },
+   {
+    "name": ["","FR","Chondrite","1841","Chateau-Renard"],
+    "lat": "47.56",
+    "lng": "2.55"
+  },
+  {
+    "name": ["","RU","Iron","1985","Chaunskij"],
+    "lat": "69.60",
+    "lng": "172.30"
+  },
+  {
+    "name": ["","RU","Iron","1938","Chebankol"],
+    "lat": "53.40",
+    "lng": "88.00"
   }
 ]
