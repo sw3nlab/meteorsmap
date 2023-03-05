@@ -638,5 +638,80 @@
     "name": ["","RU","Iron","1938","Chebankol"],
     "lat": "53.40",
     "lng": "88.00"
+  },
+  {
+    "name": ["","BY","Chondrite","1963","Chernyi Bor"],
+    "lat": "53.42",
+    "lng": "30.60"
+  },
+  {
+    "name": ["","US","Chondrite","1933","Cherokee Springs"],
+    "lat": "35.20",
+    "lng": "-81.53"
+  },
+   {
+    "name": ["","UA","Achondrite","1939","Chervony Kut"],
+    "lat": "50.50",
+    "lng": "34.00"
+  },
+  {
+    "name": ["","US","Iron","1849","Chesterville"],
+    "lat": "34.42",
+    "lng": "-81.12"
+  },
+  {
+    "name": ["","US","Chondrite","1954","Chico"],
+    "lat": "36.30",
+    "lng": "-104.12"
+  },
+  {
+    "name": ["","Pacific Ocean","Chondrite","1986","Clarion"],
+    "lat": "12.30",
+    "lng": "-137.42"
+  },
+  {
+    "name": ["","Pacific Ocean","Chondrite","1986","Clipperton"],
+    "lat": "11.42",
+    "lng": "-137.48"
+  },
+   {
+    "name": ["","US","Mesosiderite","1954","Clover Springs"],
+    "lat": "34.27",
+    "lng": "-111.22"
+  },
+  {
+    "name": ["","US","Chondrite","1963","Clovis 2"],
+    "lat": "34.18",
+    "lng": "-103.8"
+  },
+  {
+    "name": ["","MX","Iron","1837","Coahuila"],
+    "lat": "28.42",
+    "lng": "-102.44"
+  },
+  {
+    "name": ["","MX","Iron","1837","Colby"],
+    "lat": "44.54",
+    "lng": "-90.17"
+  },
+  {
+    "name": ["","ZA","Chondrite","1838","Cold Bokkeveld"],
+    "lat": "-33.80",
+    "lng": "19.23"
+  },
+   {
+    "name": ["","US","Chondrite","1937","Coolidge"],
+    "lat": "38.2",
+    "lng": "-101.59"
+  },
+  {
+    "name": ["","CL","Iron","1863","Copiapo"],
+    "lat": "-27.18",
+    "lng": "-70.24"
+  },
+  {
+    "name": ["","US","Iron","1837","Cosbys Creek"],
+    "lat": "35.47",
+    "lng": "-83.15"
   }
 ]
