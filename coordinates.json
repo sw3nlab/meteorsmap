@@ -974,4 +974,30 @@
     "lat": "50.45",
     "lng": "25.18"
   }
+  ,
+   {
+    "name": ["","KZ","Iron","1910","Dorofeevka"],
+    "lat": "53.20",
+    "lng": "70.40"
+  },
+  {
+    "name": ["","RU","Chondrite","1805","Doroninsk"],
+    "lat": "51.12",
+    "lng": "112.18"
+  },
+  {
+    "name": ["","US","Iron","1944","Drum Mountains"],
+    "lat": "39.30",
+    "lng": "-112.54"
+  },
+  {
+    "name": ["","HR","Chondrite","1951","Dubrovnik"],
+    "lat": "42.2730",
+    "lng": "18.2630"
+  },
+  {
+    "name": ["","IN","Achondrite","1872","Dyalpur"],
+    "lat": "26.15",
+    "lng": "82.00"
+  }
 ]
