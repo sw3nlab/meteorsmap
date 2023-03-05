@@ -748,5 +748,105 @@
     "name": ["","US","Chondrite","1932","Cushing"],
     "lat": "35.58",
     "lng": "-96.46"
+  },
+   {
+    "name": ["","AU","Mesosiderit","1923","Dalgaranga"],
+    "lat": "-27.43",
+    "lng": "117.15"
+  },
+  {
+    "name": ["","AU","Chondrite","1941","Dalgety Downs"],
+    "lat": "-25.20",
+    "lng": "116.11"
+  },
+  {
+    "name": ["","US","Chondrite","1968","Dalhart"],
+    "lat": "36.236",
+    "lng": "-102.2430"
+  },
+  {
+    "name": ["","ZA","Chondrite","1868","Daniels Kuil"],
+    "lat": "-28.12",
+    "lng": "24.34"
+  },
+  {
+    "name": ["","LY","Chondrite","1997","Dar al Gani 078"],
+    "lat": "27.0629",
+    "lng": "16.0379"
+  },
+   {
+    "name": ["","LY","Chondrite","1997","Dar al Gani 298"],
+    "lat": "26.5820",
+    "lng": "16.4228"
+  },
+  {
+    "name": ["","LY","Chondrite","1997","Dar al Gani 299"],
+    "lat": "26.4844",
+    "lng": "16.0668"
+  },
+  {
+    "name": ["","LY","Chondrite","1997","Dar al Gani 300"],
+    "lat": "26.5668",
+    "lng": "16.1076"
+  },
+  {
+    "name": ["","LY","Chondrite","1997","Dar al Gani 301"],
+    "lat": "26.5829",
+    "lng": "16.2708"
+  },
+  {
+    "name": ["","LY","Chondrite","1997","Dar al Gani 302"],
+    "lat": "26.5820",
+    "lng": "16.2775"
+  },
+   {
+    "name": ["","LY","Chondrite","1997","Dar al Gani 303"],
+    "lat": "27.0810",
+    "lng": "16.1401"
+  },
+  {
+    "name": ["","LY","Chondrite","1997","Dar al Gani 304"],
+    "lat": "27.1011",
+    "lng": "16.1107"
+  },
+  {
+    "name": ["","LY","Chondrite","1997","Dar al Gani 305"],
+    "lat": "27.1717",
+    "lng": "16.0448"
+  },
+  {
+    "name": ["","LY","Chondrite","1997","Dar al Gani 306"],
+    "lat": "27.4228",
+    "lng": "16.1135"
+  },
+  {
+    "name": ["","LY","Chondrite","1997","Dar al Gani 307"],
+    "lat": "27.3142",
+    "lng": "16.0907"
+  },
+   {
+    "name": ["","LY","Chondrite","1997","Dar al Gani 308"],
+    "lat": "27.2308",
+    "lng": "16.0772"
+  },
+  {
+    "name": ["","LY","Chondrite","1997","Dar al Gani 309"],
+    "lat": "27.3077",
+    "lng": "16.0976"
+  },
+  {
+    "name": ["","LY","Chondrite","1997","Dar al Gani 310"],
+    "lat": "27.1752",
+    "lng": "16.0672"
+  },
+  {
+    "name": ["","LY","Chondrite","1997","Dar al Gani 311"],
+    "lat": "27.0957",
+    "lng": "16.0317"
+  },
+  {
+    "name": ["","LY","Chondrite","1997","Dar al Gani 312"],
+    "lat": "27.0532",
+    "lng": "16.0859"
   }
 ]
