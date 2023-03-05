@@ -848,5 +848,130 @@
     "name": ["","LY","Chondrite","1997","Dar al Gani 312"],
     "lat": "27.0532",
     "lng": "16.0859"
+  },
+   {
+    "name": ["","LY","Chondrite","1997","Dar al Gani 313"],
+    "lat": "26.4844",
+    "lng": "15.5409"
+  },
+  {
+    "name": ["","LY","Chondrite","1997","Dar al Gani 314"],
+    "lat": "27.0727",
+    "lng": "16.1986"
+  },
+  {
+    "name": ["","LY","Chondrite","1997","Dar al Gani 315"],
+    "lat": "27.0733",
+    "lng": "16.1872"
+  },
+  {
+    "name": ["","LY","Chondrite","1997","Dar al Gani 316"],
+    "lat": "27.1461",
+    "lng": "16.0486"
+  },
+  {
+    "name": ["","LY","Chondrite","1997","Dar al Gani 317"],
+    "lat": "27.0080",
+    "lng": "16.1125"
+  },
+   {
+    "name": ["","LY","Chondrite","1997","Dar al Gani 318"],
+    "lat": "27.0859",
+    "lng": "15.5238"
+  },
+  {
+    "name": ["","LY","Chondrite","1997","Dar al Gani 319"],
+    "lat": "27.0168",
+    "lng": "16.2152"
+  },
+  {
+    "name": ["","LY","Chondrite","1997","Dar al Gani 320"],
+    "lat": "27.0203",
+    "lng": "16.1956"
+  },
+  {
+    "name": ["","LY","Chondrite","1997","Dar al Gani 321"],
+    "lat": "27.0592",
+    "lng": "16.0828"
+  },
+  {
+    "name": ["","LY","Chondrite","1997","Dar al Gani 322"],
+    "lat": "27.0595",
+    "lng": "16.0842"
+  },
+   {
+    "name": ["","LY","Chondrite","1997","Dar al Gani 323"],
+    "lat": "28.1800",
+    "lng": "15.4305"
+  },
+  {
+    "name": ["","LY","Chondrite","1997","Dar al Gani 324"],
+    "lat": "28.1089",
+    "lng": "15.3887"
+  },
+  {
+    "name": ["","LY","Chondrite","1997","Dar al Gani 325"],
+    "lat": "28.1236",
+    "lng": "15.3813"
+  },
+  {
+    "name": ["","KZ","Iron","1984","Darinskoe"],
+    "lat": "51.25",
+    "lng": "51.58"
+  },
+  {
+    "name": ["","AU","Iron","1997","Delegate"],
+    "lat": "-37.00",
+    "lng": "149.2"
+  },
+   {
+    "name": ["","RU","Chondrite","1911","Demina"],
+    "lat": "51.280",
+    "lng": "84.46"
+  },
+  {
+    "name": ["","TM","Chondrite","1976","Dengli"],
+    "lat": "39.40",
+    "lng": "58.52"
+  },
+  {
+    "name": ["","US","Chondrite","1879","Densmore"],
+    "lat": "39.39",
+    "lng": "-99.41"
+  },
+  {
+    "name": ["","US","Iron","1975","Denver City"],
+    "lat": "33.417",
+    "lng": "-102.481"
+  },
+  {
+    "name": ["","IN","Chondrite","1976","Dhajala"],
+    "lat": "22.2240",
+    "lng": "71.2538"
+  },
+   {
+    "name": ["","RS","Iron","1949","Dimitrovgrad"],
+    "lat": "43.247",
+    "lng": "22.5150"
+  },
+  {
+    "name": ["","US","Chondrite","1942","Dimmitt"],
+    "lat": "34.35",
+    "lng": "-102.10"
+  },
+  {
+    "name": ["","RU","Achondrite","1981","Divnoe"],
+    "lat": "45.42",
+    "lng": "43.42"
+  },
+  {
+    "name": ["","ID","Chondrite","1884","Djati-Pengton"],
+    "lat": "-7.30",
+    "lng": "111.30"
+  },
+  {
+    "name": ["","UA","Chondrite","1864","Dolgovoli"],
+    "lat": "50.45",
+    "lng": "25.18"
   }
 ]
