@@ -408,5 +408,135 @@
     "name": ["","US","Chondrite","1878","Bluff"],
     "lat": "29.54",
     "lng": "-96.48"
+  },
+  {
+    "name": ["","RU","Iron","1907","Bodaibo"],
+    "lat": "57.51",
+    "lng": "114.12"
+  },
+  {
+    "name": ["","KZ","Chondrite","1942","Bogoslovka"],
+    "lat": "52.30",
+    "lng": "68.48"
+  },
+   {
+    "name": ["","RU","Iron","1916","Boguslavka"],
+    "lat": "44.33",
+    "lng": "131.38"
+  },
+  {
+    "name": ["","RU","Chondrite","1939","Bolshaya Korta"],
+    "lat": "57.38",
+    "lng": "83.22"
+  },
+  {
+    "name": ["","PH","Mesosiderite","1956","Bondoc"],
+    "lat": "12.20",
+    "lng": "122.52"
+  },
+  {
+    "name": ["","RU","Chondrite","1930","Boriskino"],
+    "lat": "54.14",
+    "lng": "52.29"
+  },
+  {
+    "name": ["","UA","Chondrite","1852","Borkut"],
+    "lat": "48.90",
+    "lng": "24.17"
+  },
+   {
+    "name": ["","RU","Chondrite","1812","Borodino"],
+    "lat": "55.28",
+    "lng": "35.52"
+  },
+  {
+    "name": ["","UA","Chondrite","1823","Botscheschki"],
+    "lat": "51.20",
+    "lng": "33.53"
+  },
+  {
+    "name": ["","AU","Iron","1937","Boxhole"],
+    "lat": "-22.37",
+    "lng": "135.12"
+  },
+  {
+    "name": ["","BY","Pallasite","1807","Brahin"],
+    "lat": "52.30",
+    "lng": "30.20"
+  },
+  {
+    "name": ["","CZ","Iron","1847","Braunau"],
+    "lat": "50.36",
+    "lng": "16.18"
+  },
+   {
+    "name": ["","DE","Chondrite","1956","Breitscheid"],
+    "lat": "50.401",
+    "lng": "8.111"
+  },
+  {
+    "name": ["","US","Pallasite","1882","Brenham"],
+    "lat": "37.36",
+    "lng": "-99.12"
+  },
+  {
+    "name": ["","RU","Achondrite","1933","Brient"],
+    "lat": "52.80",
+    "lng": "59.19"
+  },
+  {
+    "name": ["","US","Chondrite","1964","Brownfield"],
+    "lat": "33.13",
+    "lng": "-102.11"
+  },
+  {
+    "name": ["","CA","Chondrite","1960","Bruderheim"],
+    "lat": "53.54",
+    "lng": "-112.53"
+  },
+   {
+    "name": ["","RU","Mesosiderit","1962","Budulan"],
+    "lat": "50.34",
+    "lng": "114.54"
+  },
+  {
+    "name": ["","MX","Iron","1969","Buenaventura"],
+    "lat": "29.48",
+    "lng": "-107.33"
+  },
+  {
+    "name": ["","SO","Chondrite","1919","Bur-Gheluai"],
+    "lat": "66.24",
+    "lng": "137.28"
+  },
+  {
+    "name": ["","RU","Iron","1941","Burgavli"],
+    "lat": "5.00",
+    "lng": "48.00"
+  },
+  {
+    "name": ["","RU","Iron","1983","Burkhala"],
+    "lat": "63.48",
+    "lng": "149.00"
+  },
+  {
+    "name": ["","LV","Chondrite","1863","Buschhow"],
+    "lat": "46.27",
+    "lng": "25.47"
+  },
+   {
+    "name": ["","IN","Achondrite","1852","Bustee"],
+    "lat": "26.47",
+    "lng": "82.50"
+  },
+  {
+    "name": ["","US","Iron","1874","Butler"],
+    "lat": "38.18",
+    "lng": "-94.22"
+  },
+  {
+    "name": ["","IN","Chondrite","1861","Butsura"],
+    "lat": "27.50",
+    "lng": "84.50"
   }
 ]
