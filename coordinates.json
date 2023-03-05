@@ -713,5 +713,40 @@
     "name": ["","US","Iron","1837","Cosbys Creek"],
     "lat": "35.47",
     "lng": "-83.15"
+  },
+  {
+    "name": ["","US","Chondrite","1896","Covert"],
+    "lat": "39.12",
+    "lng": "-98.47"
+  },
+  {
+    "name": ["","US","Mesosiderit","1887","Crab Orchard"],
+    "lat": "35.50",
+    "lng": "-84.55"
+  },
+   {
+    "name": ["","AU","Iron","1854","Cranbourne"],
+    "lat": "-38.6",
+    "lng": "145.18"
+  },
+  {
+    "name": ["","ZA","Chondrite","1854","Cronstad"],
+    "lat": "-27.42",
+    "lng": "27.18"
+  },
+  {
+    "name": ["","US","Chondrite","1902","Cullison"],
+    "lat": "37.37",
+    "lng": "-98.55"
+  },
+  {
+    "name": ["","US","Achondrite","1919","Cumberland Falls"],
+    "lat": "36.50",
+    "lng": "-84.21"
+  },
+  {
+    "name": ["","US","Chondrite","1932","Cushing"],
+    "lat": "35.58",
+    "lng": "-96.46"
   }
 ]
