@@ -1128,5 +1128,30 @@
     "name": ["","US","Chondrite","1965","Eva"],
     "lat": "36.12",
     "lng": "-102.5430"
+  },
+   {
+    "name": ["","US","Chondrite","1936","Farley"],
+    "lat": "36.20",
+    "lng": "-104.3"
+  },
+  {
+    "name": ["","US","Chondrite","1890","Farmington"],
+    "lat": "39.45",
+    "lng": "-97.20"
+  },
+  {
+    "name": ["","US","Chondrite","1934","Farmville"],
+    "lat": "35.33",
+    "lng": "-77.32"
+  },
+  {
+    "name": ["","US","Chondrite","1907","Faucett"],
+    "lat": "39.37",
+    "lng": "-94.52"
+  },
+  {
+    "name": ["","US","Chondrite","1900","Felix"],
+    "lat": "32.32",
+    "lng": "-87.10"
   }
 ]
