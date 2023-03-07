@@ -973,8 +973,7 @@
     "name": ["","UA","Chondrite","1864","Dolgovoli"],
     "lat": "50.45",
     "lng": "25.18"
-  }
-  ,
+  },
    {
     "name": ["","KZ","Iron","1910","Dorofeevka"],
     "lat": "53.20",
@@ -999,5 +998,30 @@
     "name": ["","IN","Achondrite","1872","Dyalpur"],
     "lat": "26.15",
     "lng": "82.00"
+  },
+   {
+    "name": ["","US","Chondrite","1946","Eagle"],
+    "lat": "40.4654",
+    "lng": "-96.2818"
+  },
+  {
+    "name": ["","US","Iron","1942","Edmonton"],
+    "lat": "37.2",
+    "lng": "-85.38"
+  },
+  {
+    "name": ["","AQ","Achondrite","1987","EET 87521"],
+    "lat": "-76.11",
+    "lng": "157.10"
+  },
+  {
+    "name": ["","AQ","Achondrite","1979","EETA 79001"],
+    "lat": "-76.112",
+    "lng": "157.11"
+  },
+  {
+    "name": ["","KZ","Chondrite","1962","Efremovka"],
+    "lat": "52.30",
+    "lng": "77.00"
   }
 ]
