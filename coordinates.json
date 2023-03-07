@@ -1055,7 +1055,7 @@
     "lng": "34.15"
   },
   {
-    "name": ["AR","","Iron","1973","El Sampal"],
+    "name": ["","AR","Iron","1973","El Sampal"],
     "lat": "-44.32",
     "lng": "-70.22"
   },
@@ -1071,6 +1071,31 @@
   },
   {
     "name": ["","RU","Iron","1959","Elga"],
+    "lat": "64.42",
+    "lng": "141.12"
+  },
+   {
+    "name": ["","US","Chondrite","1948","Ellis County"],
+    "lat": "38.47",
+    "lng": "-99.20"
+  },
+  {
+    "name": ["","US","Chondrite","1906","Elm Creek"],
+    "lat": "38.30",
+    "lng": "-96.12"
+  },
+  {
+    "name": ["","FR","Chondrite","1492","Ensisheim"],
+    "lat": "47.52",
+    "lng": "7.21"
+  },
+  {
+    "name": ["","AM","Achondrite","1911","Erevan"],
+    "lat": "40.18",
+    "lng": "44.30"
+  },
+  {
+    "name": ["","SO","Chondrite","1889","Ergheo"],
     "lat": "64.42",
     "lng": "141.12"
   }
