@@ -1098,5 +1098,35 @@
     "name": ["","SO","Chondrite","1889","Ergheo"],
     "lat": "64.42",
     "lng": "141.12"
+  },
+  {
+    "name": ["","KZ","Chondrite","1937","Erofeevka"],
+    "lat": "51.52",
+    "lng": "70.21"
+  },
+   {
+    "name": ["","DE","Chondrite","1812","Erxleben"],
+    "lat": "52.13",
+    "lng": "11.15"
+  },
+  {
+    "name": ["","AR","Pallasite","1951","Esquel"],
+    "lat": "-42.54",
+    "lng": "-71.20"
+  },
+  {
+    "name": ["","US","Mesosiderit","1879","Estherville"],
+    "lat": "43.25",
+    "lng": "-94.50"
+  },
+  {
+    "name": ["","US","Chondrite","1965","Etter"],
+    "lat": "35.59",
+    "lng": "-101.54"
+  },
+  {
+    "name": ["","US","Chondrite","1965","Eva"],
+    "lat": "36.12",
+    "lng": "-102.5430"
   }
 ]
