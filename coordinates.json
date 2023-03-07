@@ -1023,5 +1023,30 @@
     "name": ["","KZ","Chondrite","1962","Efremovka"],
     "lat": "52.30",
     "lng": "77.00"
+  },
+   {
+    "name": ["","RU","Iron","1970","Egvekinot"],
+    "lat": "66.48",
+    "lng": "178.12"
+  },
+  {
+    "name": ["","AO","Chondrite","1961","Ehole"],
+    "lat": "-17.18",
+    "lng": "15.50"
+  },
+  {
+    "name": ["","DZ","Chondrite","1989","El Diouf 001"],
+    "lat": "23.26",
+    "lng": "-1.25"
+  },
+  {
+    "name": ["","DZ","Chondrite","1989","El Diouf 006"],
+    "lat": "23.40",
+    "lng": "-1.25"
+  },
+  {
+    "name": ["","MR","Chondrite","1997","El Hammami"],
+    "lat": "23.17",
+    "lng": "-10.49"
   }
 ]
