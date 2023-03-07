@@ -1048,5 +1048,30 @@
     "name": ["","MR","Chondrite","1997","El Hammami"],
     "lat": "23.17",
     "lng": "-10.49"
+  },
+   {
+    "name": ["","EG","Iron","1921","El Qoseir"],
+    "lat": "26.17",
+    "lng": "34.15"
+  },
+  {
+    "name": ["AR","","Iron","1973","El Sampal"],
+    "lat": "-44.32",
+    "lng": "-70.22"
+  },
+  {
+    "name": ["","CZ","Iron","1811","Elbogen"],
+    "lat": "50.11",
+    "lng": "12.44"
+  },
+  {
+    "name": ["","UA","Chondrite","1951","Elenovka"],
+    "lat": "47.50",
+    "lng": "37.40"
+  },
+  {
+    "name": ["","RU","Iron","1959","Elga"],
+    "lat": "64.42",
+    "lng": "141.12"
   }
 ]
