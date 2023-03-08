@@ -1153,5 +1153,30 @@
     "name": ["","US","Chondrite","1900","Felix"],
     "lat": "32.32",
     "lng": "-87.10"
+  },
+   {
+    "name": ["","US","Chondrite","1902","Felt"],
+    "lat": "36.33",
+    "lng": "-102.47"
+  },
+  {
+    "name": ["","NO","Pallasite","1902","Finmarken"],
+    "lat": "70.00",
+    "lng": "24.00"
+  },
+  {
+    "name": ["","US","Chondrite","1962","Finney"],
+    "lat": "34.16",
+    "lng": "-101.34"
+  },
+  {
+    "name": ["","US","Chondrite","1890","Forest City"],
+    "lat": "43.15",
+    "lng": "-93.40"
+  },
+  {
+    "name": ["","AU","Chondrite","1942","Forest Vale"],
+    "lat": "-33.21",
+    "lng": "146.5130"
   }
 ]
