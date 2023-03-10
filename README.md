@@ -3,7 +3,7 @@ Meteorites Visualisation Map
 
 https://sw3nlab.github.io/meteorsmap
 
-![image](https://raw.githubusercontent.com/sw3nlab/meteorsmap/main/preview.jpg)
+![image](https://raw.githubusercontent.com/sw3nlab/meteorsmap/main/arizona.gif)
 
 ### Онлайн 2D/3D карта для визуализации мест падения метеоритов до 1999 года 
 
