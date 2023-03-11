@@ -1565,5 +1565,215 @@
     "name": ["","FR","Achondrite","1821","Juvinas"],
     "lat": "44.43",
     "lng": "4.18"
+  },
+  {
+    "name": ["","EE","Iron","1937","Kaalijarv"],
+    "lat": "58.24",
+    "lng": "22.40"
+  },
+  {
+    "name": ["","HU","Chondrite","1857","Kaba"],
+    "lat": "47.21",
+    "lng": "21.18"
+  },
+  {
+    "name": ["","TM","Chondrite","1965","Kabakly"],
+    "lat": "39.52",
+    "lng": "62.31"
+  },
+  {
+    "name": ["","UA","Chondrite","1908","Kagarlyk"],
+    "lat": "49.52",
+    "lng": "30.50"
+  },
+  {
+    "name": ["","YE","Chondrite","1980","Kaidun"],
+    "lat": "15.00",
+    "lng": "48.18"
+  },
+  {
+    "name": ["","RU","Chondrite","1937","Kainsaz"],
+    "lat": "55.26",
+    "lng": "53.15"
+  },
+  {
+    "name": ["","RU","Chondrite","1981","Kamyshla"],
+    "lat": "54.00",
+    "lng": "52.12"
+  },
+  {
+    "name": ["","AF","Chondrite","1959","Kandagar"],
+    "lat": "31.36",
+    "lng": "65.47"
+  },
+  {
+    "name": ["","SD","Achondrite","1942","Kapoeta"],
+    "lat": "4.42",
+    "lng": "33.38"
+  },
+  {
+    "name": ["","KG","Chondrite","1937","Kaptal-Aryk"],
+    "lat": "42.27",
+    "lng": "73.22"
+  },
+  {
+    "name": ["","RU","Chondrite","1900","Karagai"],
+    "lat": "51.70",
+    "lng": "57.55"
+  },
+  {
+    "name": ["","KZ","Chondrite","1840","Karakol"],
+    "lat": "47.13",
+    "lng": "81.10"
+  },
+  {
+    "name": ["","RU","Chondrite","1961","Kargapole"],
+    "lat": "55.53",
+    "lng": "64.18"
+  },
+  {
+    "name": ["","AU","Chondrite","1930","Karoonda"],
+    "lat": "-35.5",
+    "lng": "139.55"
+  },
+  {
+    "name": ["","TR","Iron","1961","Kayakent"],
+    "lat": "39.1548",
+    "lng": "31.4648"
+  },
+  {
+    "name": ["","US","Chondrite","1937","Kelly"],
+    "lat": "40.28",
+    "lng": "-103.2"
+  },
+  {
+    "name": ["","US","Achondrite","1972","Kenna"],
+    "lat": "33.54",
+    "lng": "-103.332"
+  },
+  {
+    "name": ["","FR","Chondrite","1869","Kernouve"],
+    "lat": "48.7",
+    "lng": "-3.5"
+  },
+  {
+    "name": ["","JP","Chondrite","1850","Kesen"],
+    "lat": "38.59",
+    "lng": "141.37"
+  },
+  {
+    "name": ["","PK","Chondrite","1873","Khairpur"],
+    "lat": "29.32",
+    "lng": "72.18"
+  },
+  {
+    "name": ["","IN","Chondrite","1932","Khanpur"],
+    "lat": "25.33",
+    "lng": "83.70"
+  },
+  {
+    "name": ["","UA","Chondrite","1787","Kharkov"],
+    "lat": "50.375",
+    "lng": "35.45"
+  },
+  {
+    "name": ["","RU","Chondrite","1929","Khmelevka"],
+    "lat": "56.45",
+    "lng": "75.20"
+  },
+  {
+    "name": ["","IN","Chondrite","1910","Khohar"],
+    "lat": "25.60",
+    "lng": "81.32"
+  },
+  {
+    "name": ["","RU","Iron","1972","Kifkakhsyagan"],
+    "lat": "64.24",
+    "lng": "172.42"
+  },
+  {
+    "name": ["","RU","Chondrite","1809","Kikino"],
+    "lat": "55.00",
+    "lng": "34.00"
+  },
+  {
+    "name": ["","RU","Chondrite","1899","Kissij"],
+    "lat": "54.52",
+    "lng": "50.53"
+  },
+  {
+    "name": ["","UA","Chondrite","1866","Knyahinya"],
+    "lat": "48.54",
+    "lng": "22.24"
+  },
+  {
+    "name": ["","MZ","Chondrite","1905","Kota-kota"],
+    "lat": "-13.1",
+    "lng": "34.12"
+  },
+  {
+    "name": ["","RU","Chondrite","1829","Krasnoi-Ugol"],
+    "lat": "54.2",
+    "lng": "40.54"
+  },
+  {
+    "name": ["","RU","Pallasite","1749","Krasnojarsk"],
+    "lat": "54.54",
+    "lng": "91.48"
+  },
+  {
+    "name": ["","RU","Chondrite","1946","Krasnyi Klyuch"],
+    "lat": "54.20",
+    "lng": "56.50"
+  },
+  {
+    "name": ["","RU","Chondrite","1906","Krutikha"],
+    "lat": "56.48",
+    "lng": "77.00"
+  },
+  {
+    "name": ["","UA","Chondrite","1946","Krymka"],
+    "lat": "47.50",
+    "lng": "30.46"
+  },
+  {
+    "name": ["","UA","Chondrite","1938","Kukschin"],
+    "lat": "51.90",
+    "lng": "31.42"
+  },
+  {
+    "name": ["","UA","Chondrite","1811","Kuleschovka"],
+    "lat": "50.45",
+    "lng": "33.30"
+  },
+  {
+    "name": ["","AZ","Chondrite","1906","Kulp"],
+    "lat": "41.7",
+    "lng": "45.0"
+  },
+  {
+    "name": ["","RU","Chondrite","1949","Kunaschak"],
+    "lat": "55.47",
+    "lng": "61.22"
+  },
+  {
+    "name": ["","TM","Chondrite","1998","Kunya-Urgench"],
+    "lat": "42.15",
+    "lng": "59.10"
+  },
+  {
+    "name": ["","RU","Chondrite","1977","Kutais"],
+    "lat": "44.31",
+    "lng": "39.18"
+  },
+  {
+    "name": ["","RU","Chondrite","1932","Kuznetzovo"],
+    "lat": "55.12",
+    "lng": "75.20"
+  },
+  {
+    "name": ["","JP","Chondrite","1886","Kyushu"],
+    "lat": "32.2",
+    "lng": "130.38"
   }
 ]
