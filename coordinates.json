@@ -1515,5 +1515,55 @@
     "name": ["","RU","Chondrite","1983","Ivanovka"],
     "lat": "54.30",
     "lng": "52.48"
+  },
+  {
+    "name": ["","RS","Chondrite","1889","Jelica"],
+    "lat": "43.50",
+    "lng": "20.2630"
+  },
+  {
+    "name": ["","US","Chondrite","1954","Jerome Idaho"],
+    "lat": "42.38",
+    "lng": "-114.50"
+  },
+  {
+    "name": ["","US","Chondrite","1984","Jerome Kansas"],
+    "lat": "38.46",
+    "lng": "-100.44"
+  },
+  {
+    "name": ["","CN","Chondrite","1976","Jilin Kirin"],
+    "lat": "44.00",
+    "lng": "126.30"
+  },
+  {
+    "name": ["","LT","Achondrite","1877","Jodzie"],
+    "lat": "55.42",
+    "lng": "24.24"
+  },
+  {
+    "name": ["","US","Iron","1884","Joe Wright"],
+    "lat": "35.46",
+    "lng": "-91.30"
+  },
+  {
+    "name": ["","US","Achondrite","1924","Johnstown"],
+    "lat": "40.21",
+    "lng": "-104.54"
+  },
+  {
+    "name": ["","US","Chondrite","1983","Julesberg"],
+    "lat": "39.5830",
+    "lng": "-102.16"
+  },
+  {
+    "name": ["","ID","Chondrite","1984","Jumapalo"],
+    "lat": "-7.43",
+    "lng": "111.12"
+  },
+  {
+    "name": ["","FR","Achondrite","1821","Juvinas"],
+    "lat": "44.43",
+    "lng": "4.18"
   }
 ]
