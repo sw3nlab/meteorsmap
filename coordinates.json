@@ -1195,4 +1195,130 @@
     "lat": "36.43",
     "lng": "-86.34"
   }
+  ,
+  {
+    "name": ["","BF","Chondrite","1960","Gao (Upper Volta)"],
+    "lat": "11.39",
+    "lng": "-2.11"
+  },
+  {
+    "name": ["","AU","Chondrite","1991","Gaskoyne"],
+    "lat": "-31.44",
+    "lng": "146.24"
+  },
+  {
+    "name": ["","UA","Chondrite","1927","Genichesk"],
+    "lat": "46.42",
+    "lng": "32.36"
+  },
+  {
+    "name": ["","OM","Chondrite","1954","Ghubara"],
+    "lat": "19.1340",
+    "lng": "56.834"
+  },
+  {
+    "name": ["","NA","Iron","1836","Gibeon"],
+    "lat": "-25.30",
+    "lng": "18.00"
+  },
+  {
+    "name": ["","AU","Chondrite","1889","Gilgoin"],
+    "lat": "-30.23",
+    "lng": "147.12"
+  },
+  {
+    "name": ["","IT","Chondrite","1853","Girgenti"],
+    "lat": "37.19",
+    "lng": "13.34"
+  },
+  {
+    "name": ["","AU","Iron","1915","Gladston"],
+    "lat": "-23.54",
+    "lng": "151.18"
+  },
+  {
+    "name": ["https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%88%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%82","RU","Chondrite","1918","Glasatovo"],
+    "lat": "57.21",
+    "lng": "37.37"
+  },
+  {
+    "name": ["","US","Pallasite","1884","Glorietta Mountain"],
+    "lat": "35.36",
+    "lng": "-105.48"
+  },
+  {
+    "name": ["","IN","Achondrite","1868","Goalpara"],
+    "lat": "26.10",
+    "lng": "90.36"
+  },
+  {
+    "name": ["","US","Iron","1938","Goose Lake"],
+    "lat": "41.5848",
+    "lng": "-120.3230"
+  },
+  {
+    "name": ["","UA","Chondrite","1974","Gorlovka"],
+    "lat": "48.17",
+    "lng": "38.50"
+  },
+  {
+    "name": ["","US","Chondrite","1937","Grady"],
+    "lat": "34.48",
+    "lng": "-103.19"
+  },
+  {
+    "name": ["","US","Iron","1883","Grand Rapids"],
+    "lat": "42.58",
+    "lng": "-85.46"
+  },
+  {
+    "name": ["","US","Chondrite","1983","Great Bend"],
+    "lat": "38.2342",
+    "lng": "-98.5457"
+  },
+  {
+    "name": ["","US","Chondrite","1987","Greenwell Springs"],
+    "lat": "30.3055",
+    "lng": "-91.0044"
+  },
+  {
+    "name": ["","BY","Iron","1954","Gressk"],
+    "lat": "53.14",
+    "lng": "27.20"
+  },
+  {
+    "name": ["","US","Chondrite","1912","Gretna"],
+    "lat": "39.56",
+    "lng": "-99.13"
+  },
+  {
+    "name": ["","RU","Chondrite","1861","Grosnaja"],
+    "lat": "43.40",
+    "lng": "45.23"
+  },
+  {
+    "name": ["","UA","Chondrite","1881","Grossliebenthal"],
+    "lat": "46.21",
+    "lng": "30.35"
+  },
+  {
+    "name": ["","US","Chondrite","1934","Gruver"],
+    "lat": "36.20",
+    "lng": "-101.24"
+  },
+  {
+    "name": ["","US","Iron","1822","Guilford Counti"],
+    "lat": "35.34",
+    "lng": "-79.50"
+  },
+  {
+    "name": ["","BG","Chondrite","1904","Gumoschnik"],
+    "lat": "42.54",
+    "lng": "24.42"
+  },
+  {
+    "name": ["","ET","Chondrite","1981","Gursum"],
+    "lat": "9.22",
+    "lng": "42.25"
+  }
 ]
