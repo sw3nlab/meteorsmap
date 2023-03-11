@@ -1455,5 +1455,65 @@
     "name": ["","FI","Chondrite","1901","Hvittis"],
     "lat": "61.11",
     "lng": "22.41"
+  },
+  {
+    "name": ["","DE","Achondrite","1870","Ibbenburen"],
+    "lat": "52.17",
+    "lng": "7.42"
+  },
+  {
+    "name": ["","BR","Achondrite","1957","Ibitira"],
+    "lat": "-19.22",
+    "lng": "-45.14"
+  },
+  {
+    "name": ["","RU","Chondrite","1936","Ichkala"],
+    "lat": "58.12",
+    "lng": "82.56"
+  },
+  {
+    "name": ["","DZ","Mesosiderit","1989","Ilafegh 002"],
+    "lat": "21.31",
+    "lng": "1.18"
+  },
+  {
+    "name": ["","DZ","Chondrite","1989","Ilafegh 013"],
+    "lat": "21.40",
+    "lng": "1.23"
+  },
+  {
+    "name": ["","RU","Iron","1915","Ilinskaya Stanitza"],
+    "lat": "51.14",
+    "lng": "57.23"
+  },
+  {
+    "name": ["","CL","Pallasite","1822","Imilac"],
+    "lat": "-24.122",
+    "lng": "-68.484"
+  },
+  {
+    "name": ["","AZ","Chondrite","1891","Indarch"],
+    "lat": "39.45",
+    "lng": "46.40"
+  },
+  {
+    "name": ["","AU","Chondrite","1987","Ingella Station"],
+    "lat": "-25.33",
+    "lng": "142.47"
+  },
+  {
+    "name": ["","CL","Iron","1871","Iquique"],
+    "lat": "-20.11",
+    "lng": "-69.44"
+  },
+  {
+    "name": ["","EG","Chondrite","1970","Isna"],
+    "lat": "24.50",
+    "lng": "31.40"
+  },
+  {
+    "name": ["","RU","Chondrite","1983","Ivanovka"],
+    "lat": "54.30",
+    "lng": "52.48"
   }
 ]
