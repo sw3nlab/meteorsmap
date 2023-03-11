@@ -1320,5 +1320,140 @@
     "name": ["","ET","Chondrite","1981","Gursum"],
     "lat": "9.22",
     "lng": "42.25"
+  },
+  {
+    "name": ["","DE","Mesosiderit","1856","Hainholz"],
+    "lat": "52.17",
+    "lng": "8.55"
+  },
+  {
+    "name": ["","SE","Chondrite","1944","Hallingeberg"],
+    "lat": "57.49",
+    "lng": "16.14"
+  },
+  {
+    "name": ["","US","Chondrite","1959","Hamlet"],
+    "lat": "41.23",
+    "lng": "-86.36"
+  },
+  {
+    "name": ["","LY","Chondrite","1996","Hammadah al Hamra 186"],
+    "lat": "28.4273",
+    "lng": "13.1642"
+  },
+  {
+    "name": ["","LY","Chondrite","1997","Hammadah al Hamra 216"],
+    "lat": "30.1249",
+    "lng": "12.5624"
+  },
+  {
+    "name": ["","LY","Chondrite","1997","Hammadah al Hamra 217"],
+    "lat": "28.3288",
+    "lng": "13.0171"
+  },
+  {
+    "name": ["","LY","Chondrite","1997","Hammadah al Hamra 218"],
+    "lat": "28.3869",
+    "lng": "13.1938"
+  },
+  {
+    "name": ["","LY","Chondrite","1997","Hammadah al Hamra 219"],
+    "lat": "28.3601",
+    "lng": "13.2541"
+  },
+  {
+    "name": ["","LY","Chondrite","1997","Hammadah al Hamra 220"],
+    "lat": "28.5592",
+    "lng": "12.3752"
+  },
+  {
+    "name": ["","LY","Mesosiderit","1997","Hammadah al Hamra 237"],
+    "lat": "28.3656",
+    "lng": "13.0295"
+  },
+  {
+    "name": ["","US","Chondrite","1971","Happy Canyon"],
+    "lat": "34.486",
+    "lng": "-101.34"
+  },
+  {
+    "name": ["","US","Chondrite","1972","Hardtner"],
+    "lat": "37.40",
+    "lng": "-98.3942"
+  },
+  {
+    "name": ["","US","Chondrite","1933","Harrisonville"],
+    "lat": "38.39",
+    "lng": "-94.20"
+  },
+  {
+    "name": ["","FI","Achondrite","1971","Havero"],
+    "lat": "60.1444",
+    "lng": "22.343"
+  },
+  {
+    "name": ["","US","Chondrite","1975","Haxtun"],
+    "lat": "40.274",
+    "lng": "-102.347"
+  },
+  {
+    "name": ["","AU","Iron","1931","Henbury"],
+    "lat": "-24.34",
+    "lng": "133.10"
+  },
+  {
+    "name": ["","AU","Chondrite","1909","Hermitage Plains"],
+    "lat": "-31.44",
+    "lng": "146.24"
+  },
+  {
+    "name": ["","SE","Chondrite","1869","Hessle"],
+    "lat": "59.51",
+    "lng": "17.40"
+  },
+  {
+    "name": ["","AU","Iron","1991","Hidden Valley"],
+    "lat": "-19.70",
+    "lng": "145.25"
+  },
+  {
+    "name": ["","NA","Iron","1920","Hoba"],
+    "lat": "-19.35",
+    "lng": "17.55"
+  },
+  {
+    "name": ["","US","Chondrite","1912","Holbrook"],
+    "lat": "34.54",
+    "lng": "-110.11"
+  },
+  {
+    "name": ["","US","Chondrite","1875","Homestead"],
+    "lat": "41.48",
+    "lng": "-91.52"
+  },
+  {
+    "name": ["","US","Chondrite","1825","Honolulu"],
+    "lat": "21.18",
+    "lng": "-157.52"
+  },
+  {
+    "name": ["","AU","Pallasite","1924","Huckitta"],
+    "lat": "-22.22",
+    "lng": "135.46"
+  },
+  {
+    "name": ["","US","Chondrite","1927","Hugoton"],
+    "lat": "37.12",
+    "lng": "-101.21"
+  },
+  {
+    "name": ["","US","Chondrite","1962","Hunter"],
+    "lat": "36.3336",
+    "lng": "-97.40"
+  },
+  {
+    "name": ["","FI","Chondrite","1901","Hvittis"],
+    "lat": "61.11",
+    "lng": "22.41"
   }
 ]
