@@ -1775,5 +1775,140 @@
     "name": ["","JP","Chondrite","1886","Kyushu"],
     "lat": "32.2",
     "lng": "130.38"
+  },
+  {
+    "name": ["","FR","Chondrite","1803","L.Aigle"],
+    "lat": "48.46",
+    "lng": "0.38"
+  },
+  {
+    "name": ["","AR","Chondrite","1985","La Criolla"],
+    "lat": "-31.14",
+    "lng": "-58.10"
+  },
+  {
+    "name": ["","US","Chondrite","1933","La Lande"],
+    "lat": "34.27",
+    "lng": "-104.8"
+  },
+  {
+    "name": ["","AU","Chondrite","1924","Lake Labyrinth"],
+    "lat": "-30.32",
+    "lng": "134.45"
+  },
+  {
+    "name": ["","US","Chondrite","1955","Lakewood"],
+    "lat": "32.3747",
+    "lng": "-104.21"
+  },
+  {
+    "name": ["","US","Iron","1981","Lamesa"],
+    "lat": "32.53",
+    "lng": "-101.53"
+  },
+  {
+    "name": ["","FR","Chondrite","1872","Lance"],
+    "lat": "47.42",
+    "lng": "1.4"
+  },
+  {
+    "name": ["","FR","Chondrite","1897","Lancon"],
+    "lat": "43.45",
+    "lng": "5.7"
+  },
+  {
+    "name": ["","US","Iron","1930","Landes"],
+    "lat": "38.54",
+    "lng": "-79.11"
+  },
+  {
+    "name": ["","RU","Chondrite","1938","Lavrentievka"],
+    "lat": "52.27",
+    "lng": "51.34"
+  },
+  {
+    "name": ["","AQ","Iron","1961","Lazarev"],
+    "lat": "-71.57",
+    "lng": "11.30"
+  },
+  {
+    "name": ["","US","Chondrite","1973","Lazbuddie"],
+    "lat": "34.30",
+    "lng": "-102.45"
+  },
+  {
+    "name": ["","US","Chondrite","1943","Leedey"],
+    "lat": "35.53",
+    "lng": "-99.20"
+  },
+  {
+    "name": ["","SK","Iron","1814","Lenarto"],
+    "lat": "49.0",
+    "lng": "21.0"
+  },
+  {
+    "name": ["","UA","Chondrite","1900","Leonovka"],
+    "lat": "52.16",
+    "lng": "32.51"
+  },
+  {
+    "name": ["","US","Chondrite","1961","Leoville"],
+    "lat": "38.48",
+    "lng": "-100.25"
+  },
+  {
+    "name": ["","US","Iron","1940","Linwood"],
+    "lat": "41.26",
+    "lng": "96.58"
+  },
+  {
+    "name": ["","RU","Pallasite","1904","Lipovsky"],
+    "lat": "49.5",
+    "lng": "42.31"
+  },
+  {
+    "name": ["","US","Chondrite","1967","Little River"],
+    "lat": "38.23",
+    "lng": "-98.1"
+  },
+  {
+    "name": ["","LV","Chondrite","1820","Lixna"],
+    "lat": "56.0",
+    "lng": "26.26"
+  },
+  {
+    "name": ["","US","Iron","1957","Locust Grove"],
+    "lat": "33.20",
+    "lng": "-84.6"
+  },
+  {
+    "name": ["","US","Chondrite","1891","Long Island"],
+    "lat": "39.56",
+    "lng": "-99.36"
+  },
+  {
+    "name": ["","US","Chondrite","1962","Loop"],
+    "lat": "32.54",
+    "lng": "-102.17"
+  },
+  {
+    "name": ["","US","Chondrite","1970","Lost City"],
+    "lat": "36.05",
+    "lng": "-95.9"
+  },
+  {
+    "name": ["","PL","Mesosiderit","1935","Lowicz"],
+    "lat": "52.0",
+    "lng": "19.55"
+  },
+  {
+    "name": ["","US","Iron","1896","Luis Lopes"],
+    "lat": "34.0",
+    "lng": "-106.58"
+  },
+  {
+    "name": ["","FI","Achondrite","1813","Luotolax"],
+    "lat": "61.12",
+    "lng": "27.42"
   }
 ]
