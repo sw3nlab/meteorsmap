@@ -1910,5 +1910,270 @@
     "name": ["","FI","Achondrite","1813","Luotolax"],
     "lat": "61.12",
     "lng": "27.42"
+  },
+  {
+    "name": ["","AQ","Achondrite","1988","MAC 88105"],
+    "lat": "-84.13",
+    "lng": "160.30"
+  },
+  {
+    "name": ["","BR","Chondrite","1836","Macau"],
+    "lat": "-5.12",
+    "lng": "-36.40"
+  },
+  {
+    "name": ["","US","Chondrite","1984","Macy"],
+    "lat": "34.13",
+    "lng": "-103.55"
+  },
+  {
+    "name": ["","SK","Iron","1840","Magura"],
+    "lat": "49.20",
+    "lng": "19.29"
+  },
+  {
+    "name": ["","SD","Chondrite","1970","Malakal"],
+    "lat": "9.30",
+    "lng": "31.45"
+  },
+  {
+    "name": ["","RU","Iron","1939","Maldyak"],
+    "lat": "63.20",
+    "lng": "-148.10"
+  },
+  {
+    "name": ["","NA","Iron","1991","Maltahohe"],
+    "lat": "-24.55",
+    "lng": "16.59"
+  },
+  {
+    "name": ["","KZ","Chondrite","1927","Mamra Sprirgs"],
+    "lat": "45.13",
+    "lng": "62.5"
+  },
+  {
+    "name": ["","IN","Chondrite","1863","Manbhoom"],
+    "lat": "23.3",
+    "lng": "86.42"
+  },
+  {
+    "name": ["","RU","Chondrite","1957","Manych"],
+    "lat": "45.49",
+    "lng": "44.38"
+  },
+  {
+    "name": ["","US","Chondrite","1847","Marion Iowa"],
+    "lat": "41.54",
+    "lng": "-91.36"
+  },
+  {
+    "name": ["","RU","Pallasite","1902","Marjalahti"],
+    "lat": "61.30",
+    "lng": "30.30"
+  },
+  {
+    "name": ["","RU","Chondrite","1970","Markovka"],
+    "lat": "52.24",
+    "lng": "79.48"
+  },
+  {
+    "name": ["","US","Chondrite","1936","Marlow"],
+    "lat": "34.36",
+    "lng": "-97.55"
+  },
+  {
+    "name": ["","RU","Iron","1992","Maslyanino"],
+    "lat": "54.15",
+    "lng": "84.20"
+  },
+  {
+    "name": ["","US","Chondrite","1972","Mayfield"],
+    "lat": "37.185",
+    "lng": "-97.327"
+  },
+  {
+    "name": ["","NG","Achondrite","1974","Mayo Belwa"],
+    "lat": "8.58",
+    "lng": "12.5"
+  },
+  {
+    "name": ["","US","Iron","1920","Mayodan"],
+    "lat": "36.23",
+    "lng": "-79.52"
+  },
+  {
+    "name": ["","UG","Chondrite","1992","Mbale"],
+    "lat": "1.4",
+    "lng": "34.10"
+  },
+  {
+    "name": ["","TZ","Iron","1930","Mbosi"],
+    "lat": "-9.7",
+    "lng": "33.4"
+  },
+  {
+    "name": ["","US","Chondrite","1870","McKinney"],
+    "lat": "33.11",
+    "lng": "-96.43"
+  },
+  {
+    "name": ["","CL","Iron","1875","Mejillones"],
+    "lat": "-23.6",
+    "lng": "-70.30"
+  },
+  {
+    "name": ["","UA","Chondrite","1983","Melnikovo"],
+    "lat": "49.48",
+    "lng": "35.36"
+  },
+  {
+    "name": ["","CL","Iron","1884","Merceditas"],
+    "lat": "-26.20",
+    "lng": "-70.17"
+  },
+  {
+    "name": ["","DK","Chondrite","1878","Mern"],
+    "lat": "55.3",
+    "lng": "12.4"
+  },
+  {
+    "name": ["","RO","Chondrite","1852","Mezo-Madaras"],
+    "lat": "46.30",
+    "lng": "25.44"
+  },
+  {
+    "name": ["","UA","Chondrite","1889","Mighei"],
+    "lat": "48.4",
+    "lng": "30.58"
+  },
+  {
+    "name": ["","AU","Iron","1992","Miles"],
+    "lat": "-27.50",
+    "lng": "150.20"
+  },
+  {
+    "name": ["","AU","Achondrite","1960","Millbillillie"],
+    "lat": "-26.27",
+    "lng": "120.22"
+  },
+  {
+    "name": ["","US","Chondrite","1930","Miller Arkansas"],
+    "lat": "35.24",
+    "lng": "92.3"
+  },
+  {
+    "name": ["","US","Chondrite","1970","Mills"],
+    "lat": "36.1348",
+    "lng": "-104.78"
+  },
+  {
+    "name": ["","AU","Iron","1921","Milly Milly"],
+    "lat": "-26.7",
+    "lng": "116.40"
+  },
+  {
+    "name": ["","US","Mesosiderit","1857","Mincy"],
+    "lat": "36.33",
+    "lng": "-93.6"
+  },
+  {
+    "name": ["","LT","Chondrite","1890","Misshof"],
+    "lat": "56.40",
+    "lng": "23.0"
+  },
+  {
+    "name": ["","RO","Chondrite","1882","Mocs"],
+    "lat": "46.48",
+    "lng": "24.2"
+  },
+  {
+    "name": ["","RU","Chondrite","1882","Mokrousovo"],
+    "lat": "55.54",
+    "lng": "66.42"
+  },
+  {
+    "name": ["","US","Iron","1938","Monahans"],
+    "lat": "31.29",
+    "lng": "-102.53"
+  },
+  {
+    "name": ["","ZM","Chondrite","1950","Monze"],
+    "lat": "-15.58",
+    "lng": "27.21"
+  },
+  {
+    "name": ["","AU","Chondrite","1965","Moorabie"],
+    "lat": "-30.6",
+    "lng": "141.4"
+  },
+  {
+    "name": ["","US","Achondrite","1913","Moore County"],
+    "lat": "35.25",
+    "lng": "-79.23"
+  },
+  {
+    "name": ["","IE","Chondrite","1810","Mooresfort"],
+    "lat": "52.27",
+    "lng": "-8.20"
+  },
+  {
+    "name": ["","PL","Iron","1914","Morasko"],
+    "lat": "52.28",
+    "lng": "16.54"
+  },
+  {
+    "name": ["","US","Mesosiderit","1887","Morristown"],
+    "lat": "36.12",
+    "lng": "-83.23"
+  },
+  {
+    "name": ["","AU","Pallasite","1903","Mount Dyrring"],
+    "lat": "-32.20",
+    "lng": "151.12"
+  },
+  {
+    "name": ["","AU","Mesosiderit","1941","Mount Egerton"],
+    "lat": "-24.46",
+    "lng": "117.42"
+  },
+  {
+    "name": ["","US","Iron","1887","Mount Joy"],
+    "lat": "39.47",
+    "lng": "-77.13"
+  },
+  {
+    "name": ["","AU","Mesosiderit","1964","Mount Padbury"],
+    "lat": "-25.40",
+    "lng": "118.6"
+  },
+  {
+    "name": ["","NG","Chondrite","1991","Mount Tazerzait"],
+    "lat": "18.42",
+    "lng": "4.48"
+  },
+  {
+    "name": ["","US","Pallasite","1868","Mount Vernon"],
+    "lat": "36.56",
+    "lng": "-87.24"
+  },
+  {
+    "name": ["","AU","Iron","1911","Mundrabilla"],
+    "lat": "-30.47",
+    "lng": "127.33"
+  },
+  {
+    "name": ["","AU","Chondrite","1969","Murchison"],
+    "lat": "-36.37",
+    "lng": "145.12"
+  },
+  {
+    "name": ["","US","Chondrite","1950","Murray"],
+    "lat": "36.36",
+    "lng": "-88.6"
+  },
+  {
+    "name": ["","RU","Chondrite","1964","Muslyumovo"],
+    "lat": "55.18",
+    "lng": "53.12"
   }
 ]
