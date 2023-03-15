@@ -2445,5 +2445,168 @@
     "name": ["","BA","Iron","1952","Ozren"],
     "lat": "44.3645",
     "lng": "18.255"
+  },
+  {
+    "name": ["","LT","Achondrite","1929","Padvarninkai"],
+    "lat": "55.40",
+    "lng": "25.0"
+  },
+  {
+    "name": ["","US","Achondrite","1954","Palo Blanco Creek"],
+    "lat": "36.30",
+    "lng": "-104.30"
+  },
+  {
+    "name": ["","CL","Chondrite","1986","Pampa c"],
+    "lat": "-23.12",
+    "lng": "-70.26"
+  },
+  {
+    "name": ["","IN","Chondrite","1857","Parnallee"],
+    "lat": "9.14",
+    "lng": "78.21"
+  },
+  {
+    "name": ["","IN","Chondrite","1942","Parsa"],
+    "lat": "26.12",
+    "lng": "85.24"
+  }
+  ,
+  {
+    "name": ["","US","Achondrite","1933","Pasamonte"],
+    "lat": "36.13",
+    "lng": "-103.24"
+  },
+  {
+    "name": ["","BD","Mesosiderit","1935","Patwar"],
+    "lat": "23.9",
+    "lng": "91.11"
+  },
+  {
+    "name": ["","KZ","Pallasite","1885","Pavlodar"],
+    "lat": "51.10",
+    "lng": "77.20"
+  },
+  {
+    "name": ["","KZ","Chondrite","1938","Pavlodar stone"],
+    "lat": "52.18",
+    "lng": "77.20"
+  },
+  {
+    "name": ["","UA","Chondrite","1826","Pavlograd"],
+    "lat": "48.32",
+    "lng": "35.59"
+  }
+  ,
+  {
+    "name": ["","RU","Achondrite","1882","Pavlovka"],
+    "lat": "52.2",
+    "lng": "43.0"
+  },
+  {
+    "name": ["","US","Chondrite","1992","Peekskill"],
+    "lat": "41.17",
+    "lng": "-73.55"
+  },
+  {
+    "name": ["","US","Chondrite","1937","Peetz"],
+    "lat": "40.57",
+    "lng": "-103.5"
+  },
+  {
+    "name": ["","US","Achondrite","1946","Pena Blanca Spring"],
+    "lat": "30.75",
+    "lng": "-103.7"
+  },
+  {
+    "name": ["","US","Iron","1906","Perryville"],
+    "lat": "37.44",
+    "lng": "-89.51"
+  }
+  ,
+  {
+    "name": ["","RU","Chondrite","1933","Pervomaisky"],
+    "lat": "56.38",
+    "lng": "39.26"
+  },
+  {
+    "name": ["","RU","Achondrite","1933","Pesyanoe"],
+    "lat": "55.30",
+    "lng": "66.5"
+  },
+  {
+    "name": ["","US","Achondrite","1855","Petersburg"],
+    "lat": "35.18",
+    "lng": "-86.38"
+  },
+  {
+    "name": ["","RU","Chondrite","1916","Petropavlovka"],
+    "lat": "48.12",
+    "lng": "43.44"
+  },
+  {
+    "name": ["","RU","Iron","1841","Petropavlovsk"],
+    "lat": "53.21",
+    "lng": "87.11"
+  },
+  {
+    "name": ["","US","Iron","1952","Picacho"],
+    "lat": "33.12",
+    "lng": "-105.0"
+  },
+  {
+    "name": ["","EE","Chondrite","1863","Pillistfer"],
+    "lat": "58.40",
+    "lng": "25.44"
+  },
+  {
+    "name": ["","US","Chondrite","1954","Pinto Mountains"],
+    "lat": "33.42",
+    "lng": "-116.6"
+  },
+  {
+    "name": ["","US","Chondrite","1964","Plains"],
+    "lat": "33.17",
+    "lng": "-102.46"
+  },
+  {
+    "name": ["","US","Chondrite","1917","Plainview"],
+    "lat": "34.7",
+    "lng": "-101.47"
+  },
+  {
+    "name": ["","RU","Chondrite","1971","Polujamki"],
+    "lat": "52.6",
+    "lng": "79.42"
+  },
+  {
+    "name": ["","RU","Achondrite","1964","Pomozdino"],
+    "lat": "62.12",
+    "lng": "54.10"
+  },
+  {
+    "name": ["","US","Chondrite","1941","Potter"],
+    "lat": "44.41",
+    "lng": "-103.18"
+  },
+  {
+    "name": ["","RU","Chondrite","1949","Preobrazhenka"],
+    "lat": "53.42",
+    "lng": "79.30"
+  },
+  {
+    "name": ["","CZ","Chondrite","1959","Pribram"],
+    "lat": "49.40",
+    "lng": "14.2"
+  },
+  {
+    "name": ["","AR","Iron","1904","Puerta de Arauco"],
+    "lat": "-28.53",
+    "lng": "-66.40"
+  },
+  {
+    "name": ["","PL","Chondrite","1868","Pultusk"],
+    "lat": "52.46",
+    "lng": "21.16"
   }
 ]
