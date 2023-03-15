@@ -2608,5 +2608,115 @@
     "name": ["","PL","Chondrite","1868","Pultusk"],
     "lat": "52.46",
     "lng": "21.16"
+  },
+  {
+    "name": ["","AR","Chondrite","1957","Raco"],
+    "lat": "-26.40",
+    "lng": "-65.27"
+  },
+  {
+    "name": ["","RU","Chondrite","1972","Raguli"],
+    "lat": "45.42",
+    "lng": "43.42"
+  },
+  {
+    "name": ["","RU","Chondrite","1971","Rakity"],
+    "lat": "51.48",
+    "lng": "79.54"
+  },
+  {
+    "name": ["","RU","Chondrite","1879","Rakovka"],
+    "lat": "52.59",
+    "lng": "37.2"
+  },
+  {
+    "name": ["","DE","Chondrite","1958","Ramsdorf"],
+    "lat": "51.53",
+    "lng": "6.56"
+  },
+  {
+    "name": ["","US","Chondrite","1938","Ransom"],
+    "lat": "38.37",
+    "lng": "-99.56"
+  },
+  {
+    "name": ["","US","Iron","1808","Red River"],
+    "lat": "32.0",
+    "lng": "-95.0"
+  },
+  {
+    "name": ["","US","Iron","1976","Red Rock"],
+    "lat": "35.25",
+    "lng": "-117.55"
+  },
+  {
+    "name": ["","AU","Iron","1969","Redfields"],
+    "lat": "-30.43",
+    "lng": "116.30"
+  },
+  {
+    "name": ["","US","Iron","1895","Reed City"],
+    "lat": "43.52",
+    "lng": "-85.31"
+  },
+  {
+    "name": ["","AU","Achondrite","1991","Reid 013"],
+    "lat": "-30.5",
+    "lng": "128.55"
+  },
+  {
+    "name": ["","IT","Chondrite","1824","Renazzo"],
+    "lat": "44.46",
+    "lng": "11.17"
+  },
+  {
+    "name": ["","RU","Iron","1933","Repeev Khutor"],
+    "lat": "48.36",
+    "lng": "45.40"
+  },
+  {
+    "name": ["","US","Chondrite","1918","Richardton"],
+    "lat": "46.53",
+    "lng": "-102.19"
+  },
+  {
+    "name": ["","US","Chondrite","1983","Richfield"],
+    "lat": "37.133",
+    "lng": "-101.41"
+  },
+  {
+    "name": ["","US","Chondrite","1828","Richmond"],
+    "lat": "37.28",
+    "lng": "-77.30"
+  },
+  {
+    "name": ["","US","Chondrite","1980","Rock Creek"],
+    "lat": "34.2520",
+    "lng": "-101.2951"
+  },
+  {
+    "name": ["","AU","Iron","1892","Roebourne"],
+    "lat": "-22.20",
+    "lng": "118.0"
+  },
+  {
+    "name": ["","US","Chondrite","1972","Roosevelt"],
+    "lat": "34.52",
+    "lng": "-98.57"
+  },
+  {
+    "name": ["","US","Iron","1844","Ruffs Mountain"],
+    "lat": "34.18",
+    "lng": "-81.24"
+  },
+  {
+    "name": ["","US","Chondrite","1938","Rush Creek"],
+    "lat": "38.37",
+    "lng": "-102.43"
+  },
+  {
+    "name": ["","UA","Chondrite","1914","Ryechki"],
+    "lat": "51.8",
+    "lng": "34.30"
   }
 ]
