@@ -2330,5 +2330,120 @@
     "name": ["","MX","Chondrite","1978","Nuevo-Mercurio"],
     "lat": "24.18",
     "lng": "-102.8"
+  },
+  {
+    "name": ["","DE","Iron","1863","Obernkirchen"],
+    "lat": "52.16",
+    "lng": "9.6"
+  },
+  {
+    "name": ["","RU","Chondrite","1887","Ochansk"],
+    "lat": "57.47",
+    "lng": "55.16"
+  },
+  {
+    "name": ["","UA","Chondrite","1871","Oczeretna"],
+    "lat": "49.19",
+    "lng": "31.31"
+  },
+  {
+    "name": ["","US","Iron","1922","Odessa"],
+    "lat": "31.43",
+    "lng": "-102.24"
+  },
+  {
+    "name": ["","UA","Chondrite","1960","Odessa"],
+    "lat": "46.30",
+    "lng": "30.46"
+  },
+  {
+    "name": ["","EE","Chondrite","1855","Oesel"],
+    "lat": "58.30",
+    "lng": "23.0"
+  },
+  {
+    "name": ["","UA","Chondrite","1834","Okniny"],
+    "lat": "50.50",
+    "lng": "25.30"
+  },
+  {
+    "name": ["","AU","Achondrite","1991","Old Homestead 001"],
+    "lat": "-34.28",
+    "lng": "115.14"
+  },
+  {
+    "name": ["","US","Iron","1976","Old Women"],
+    "lat": "31.10",
+    "lng": "-127.45"
+  },
+  {
+    "name": ["","IT","Chondrite","1929","Olmedilla de Alarcon"],
+    "lat": "39.34",
+    "lng": "-2.6"
+  },
+  {
+    "name": ["","FR","Chondrite","1864","Orgueil"],
+    "lat": "43.53",
+    "lng": "1.23"
+  },
+  {
+    "name": ["","RU","Chondrite","1928","Orlovka"],
+    "lat": "56.0",
+    "lng": "76.45"
+  },
+  {
+    "name": ["","FR","Chondrite","1868","Ornans"],
+    "lat": "47.7",
+    "lng": "6.9"
+  },
+  {
+    "name": ["","IT","Chondrite","1872","Orvinio"],
+    "lat": "42.8",
+    "lng": "12.56"
+  },
+  {
+    "name": ["","CA","Iron","1931","Osseo"],
+    "lat": "47.38",
+    "lng": "-80.5"
+  },
+  {
+    "name": ["","MX","Pallasite","1986","Otinapa"],
+    "lat": "24.11",
+    "lng": "-105.2"
+  },
+  {
+    "name": ["","US","Chondrite","1940","Otis"],
+    "lat": "38.32",
+    "lng": "-99.3"
+  },
+  {
+    "name": ["","LY","Chondrite","1944","Oubari"],
+    "lat": "42.55",
+    "lng": "102.28"
+  },
+  {
+    "name": ["","US","Chondrite","1984","Owasco"],
+    "lat": "41.12",
+    "lng": "-103.41"
+  },
+  {
+    "name": ["","RU","Chondrite","1990","Oyogos-Yar"],
+    "lat": "72.41",
+    "lng": "-143.32"
+  },
+  {
+    "name": ["","RU","Chondrite","1983","Ozernoe"],
+    "lat": "54.54",
+    "lng": "62.48"
+  },
+  {
+    "name": ["","US","Chondrite","1929","Ozona"],
+    "lat": "30.44",
+    "lng": "-101.18"
+  },
+  {
+    "name": ["","BA","Iron","1952","Ozren"],
+    "lat": "44.3645",
+    "lng": "18.255"
   }
 ]
