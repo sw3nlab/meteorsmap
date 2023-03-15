@@ -2718,5 +2718,285 @@
     "name": ["","UA","Chondrite","1914","Ryechki"],
     "lat": "51.8",
     "lng": "34.30"
+  },
+  {
+    "name": ["","US","Iron","1890","Sacramento"],
+    "lat": "32.55",
+    "lng": "-104.40"
+  },
+  {
+    "name": ["","FR","Chondrite","1966","Saint-Severin"],
+    "lat": "45.18",
+    "lng": "0.14"
+  },
+  {
+    "name": ["","MX","Chondrite","1971","Salaices"],
+    "lat": "27.0",
+    "lng": "-105.15"
+  },
+  {
+    "name": ["","FI","Chondrite","1963","Salla"],
+    "lat": "66.48",
+    "lng": "28.27"
+  },
+  {
+    "name": ["","US","Iron","1897","San Angelo"],
+    "lat": "31.25",
+    "lng": "-100.21"
+  },
+  {
+    "name": ["","AR","Chondrite","1942","San Carlos"],
+    "lat": "-35.32",
+    "lng": "-58.46"
+  },
+  {
+    "name": ["","BR","Iron","1875","Santa Catarina"],
+    "lat": "-26.13",
+    "lng": "-48.36"
+  },
+  {
+    "name": ["","BR","Iron","1921","Santa Luzia"],
+    "lat": "-16.16",
+    "lng": "-47.57"
+  },
+  {
+    "name": ["","CO","Iron","1810","Santa Rosa"],
+    "lat": "5.55",
+    "lng": "-73.0"
+  },
+  {
+    "name": ["","MX","Iron","1958","Santiago Papasquiero"],
+    "lat": "24.30",
+    "lng": "-106.0"
+  },
+  {
+    "name": ["","PT","Iron","1883","Sao Juliao de Moreira"],
+    "lat": "41.4558",
+    "lng": "8.351"
+  },
+  {
+    "name": ["","RU","Chondrite","1918","Saratov"],
+    "lat": "52.33",
+    "lng": "46.33"
+  },
+  {
+    "name": ["","US","Iron","1940","Sardis"],
+    "lat": "32.5656",
+    "lng": "-81.5154"
+  },
+  {
+    "name": ["","RU","Iron","1854","Sarepta"],
+    "lat": "48.29",
+    "lng": "44.49"
+  },
+  {
+    "name": ["","UA","Chondrite","1894","Savtschenskoje"],
+    "lat": "47.12",
+    "lng": "29.54"
+  },
+  {
+    "name": ["","US","Chondrite","1871","Searsmont"],
+    "lat": "44.22",
+    "lng": "-69.12"
+  },
+  {
+    "name": ["","PL","Iron","1847","Seelasgen"],
+    "lat": "52.16",
+    "lng": "15.33"
+  },
+  {
+    "name": ["","US","Chondrite","1956","Seguin"],
+    "lat": "39.22",
+    "lng": "-100.38"
+  },
+  {
+    "name": ["","US","Chondrite","1960","Selden"],
+    "lat": "39.32",
+    "lng": "-100.34"
+  },
+  {
+    "name": ["","IN","Chondrite","1940","Semarkona"],
+    "lat": "22.15",
+    "lng": "79.0"
+  },
+  {
+    "name": ["","US","Chondrite","1961","Seminole"],
+    "lat": "32.41",
+    "lng": "-102.37"
+  },
+  {
+    "name": ["","GR","Chondrite","1818","Seres"],
+    "lat": "41.3",
+    "lng": "23.34"
+  },
+  {
+    "name": ["","RU","Chondrite","1965","Severny Kolchim"],
+    "lat": "60.30",
+    "lng": "57.00"
+  },
+  {
+    "name": ["","RU","Chondrite","1874","Sevrukovo"],
+    "lat": "50.37",
+    "lng": "36.36"
+  },
+  {
+    "name": ["https://wiki5.ru/wiki/Seymchan_(meteorite)","RU","Iron","1967","Seymchan"],
+    "lat": "62.54",
+    "lng": "152.26"
+  },
+  {
+    "name": ["","IN","Achondrite","1850","Shalka"],
+    "lat": "23.6",
+    "lng": "87.18"
+  },
+  {
+    "name": ["","US","Chondrite","1937","Shaw"],
+    "lat": "39.32",
+    "lng": "-103.20"
+  },
+  {
+    "name": ["","CA","Chondrite","1904","Shelburne"],
+    "lat": "44.3",
+    "lng": "-80.10"
+  },
+  {
+    "name": ["","IN","Achondrite","1865","Shergotty"],
+    "lat": "23.33",
+    "lng": "84.50"
+  },
+  {
+    "name": ["","US","Chondrite","1962","Shields"],
+    "lat": "38.42",
+    "lng": "-100.21"
+  },
+  {
+    "name": ["https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D1%85%D0%BE%D1%82%D1%8D-%D0%90%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%82","RU","Iron","1947","Sikhote-Alin"],
+    "lat": "46.936",
+    "lng": "134.3912"
+  },
+  {
+    "name": ["","US","Chondrite","1938","Silverton"],
+    "lat": "34.32",
+    "lng": "-101.11"
+  },
+  {
+    "name": ["","ZA","Mesosiderit","1907","Simondium"],
+    "lat": "-33.51",
+    "lng": "18.57"
+  },
+  {
+    "name": ["","RU","Chondrite","1818","Slobodka"],
+    "lat": "55.0",
+    "lng": "35.0"
+  },
+  {
+    "name": ["","US","Chondrite","1962","Slovak"],
+    "lat": "34.39",
+    "lng": "-91.35"
+  },
+  {
+    "name": ["","US","Iron","1940","Smithonia"],
+    "lat": "34.0",
+    "lng": "-83.10"
+  },
+  {
+    "name": ["","US","Iron","1840","Smithville"],
+    "lat": "35.59",
+    "lng": "-85.51"
+  },
+  {
+    "name": ["","RS","Chondrite","1887","Soko-Banja"],
+    "lat": "43.40",
+    "lng": "21.52"
+  },
+  {
+    "name": ["","CA","Pallasite","1931","Springwater"],
+    "lat": "52.0",
+    "lng": "108.18"
+  },
+  {
+    "name": ["","RU","Iron","1873","Syromolotovo"],
+    "lat": "58.37",
+    "lng": "98.56"
+  },
+  {
+    "name": ["","US","Chondrite","1965","St.Laurence"],
+    "lat": "31.44",
+    "lng": "-101.3018"
+  },
+  {
+    "name": ["","ZA","Chondrite","1903","St.Marks"],
+    "lat": "-32.1",
+    "lng": "27.25"
+  },
+  {
+    "name": ["","FI","Chondrite","1910","St.Michel"],
+    "lat": "61.39",
+    "lng": "27.12"
+  },
+  {
+    "name": ["","US","Chondrite","1957","St.Peter"],
+    "lat": "39.24",
+    "lng": "-100.2"
+  },
+  {
+    "name": ["","SE","Chondrite","1876","Stalldalen"],
+    "lat": "59.56",
+    "lng": "14.57"
+  },
+  {
+    "name": ["","CZ","Achondrite","1808","Stannern"],
+    "lat": "49.17",
+    "lng": "15.34"
+  },
+  {
+    "name": ["","RU","Chondrite","1857","Stavropol"],
+    "lat": "45.3",
+    "lng": "41.59"
+  },
+  {
+    "name": ["","DE","Iron","1724","Steinbach"],
+    "lat": "50.30",
+    "lng": "12.30"
+  },
+  {
+    "name": ["","RU","Iron","1990","Sterlitamak"],
+    "lat": "53.40",
+    "lng": "55.59"
+  },
+  {
+    "name": ["","CN","Chondrite","1986","Suizhou"],
+    "lat": "-31.43",
+    "lng": "113.23"
+  },
+  {
+    "name": ["","UA","Chondrite","1987","Sukhoj Liman"],
+    "lat": "46.24",
+    "lng": "30.48"
+  },
+  {
+    "name": ["","US","Chondrite","1979","Summerfield"],
+    "lat": "34.46",
+    "lng": "-102.25"
+  },
+  {
+    "name": ["","RU","Chondrite","1935","Sungach"],
+    "lat": "44.52",
+    "lng": "133.10"
+  },
+  {
+    "name": ["","RU","Iron","1957","Susuman"],
+    "lat": "62.4317",
+    "lng": "148.749"
+  },
+  {
+    "name": ["","RU","Chondrite","1985","Sverdlovsk"],
+    "lat": "57.0",
+    "lng": "62.42"
+  },
+  {
+    "name": ["","RU","Iron","1988","Sychevka"],
+    "lat": "51.75",
+    "lng": "127.297"
   }
 ]
