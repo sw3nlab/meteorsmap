@@ -3378,5 +3378,70 @@
     "name": ["","UA","Achondrite","1936","Yurtuk"],
     "lat": "47.19",
     "lng": "35.22"
+  },
+  {
+    "name": ["","UA","Chondrite","1818","Zaborzika"],
+    "lat": "50.17",
+    "lng": "27.41"
+  },
+  {
+    "name": ["","BY","Chondrite","1893","Zabrodje"],
+    "lat": "55.11",
+    "lng": "27.55"
+  },
+  {
+    "name": ["","MX","Iron","1792","Zacatecas"],
+    "lat": "22.49",
+    "lng": "-102.34"
+  },
+  {
+    "name": ["","NG","Achondrite","1962","Zagami"],
+    "lat": "11.44",
+    "lng": "7.5"
+  },
+  {
+    "name": ["","MA","Iron","1987","Zagora"],
+    "lat": "30.22",
+    "lng": "-5.51"
+  },
+  {
+    "name": ["","KZ","Chondrite","1963","Zaisan"],
+    "lat": "47.30",
+    "lng": "83.0"
+  },
+  {
+    "name": ["","RU","Chondrite","1952","Zavetnoe"],
+    "lat": "47.8",
+    "lng": "43.54"
+  },
+  {
+    "name": ["","BA","Chondrite","1897","Zavid"],
+    "lat": "44.24",
+    "lng": "19.7"
+  },
+  {
+    "name": ["","LT","Chondrite","1933","Zemaitkiemis"],
+    "lat": "55.18",
+    "lng": "25.0"
+  },
+  {
+    "name": ["","RU","Iron","1966","Zhigansk"],
+    "lat": "68.0",
+    "lng": "128.18"
+  },
+  {
+    "name": ["","UA","Chondrite","1938","Zhovtnevyi"],
+    "lat": "47.35",
+    "lng": "37.15"
+  },
+  {
+    "name": ["","BY","Achondrite","1858","Zmenj"],
+    "lat": "51.50",
+    "lng": "26.50"
+  },
+  {
+    "name": ["","UA","Chondrite","1955","Zvonkov"],
+    "lat": "50.12",
+    "lng": "30.15"
   }
 ]
