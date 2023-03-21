@@ -3243,5 +3243,105 @@
     "name": ["","RU","Chondrite","1992","Vyatka"],
     "lat": "57.32",
     "lng": "49.0"
+  },
+  {
+    "name": ["","SA","Iron","1863","Wabar"],
+    "lat": "21.2959",
+    "lng": "50.2820"
+  },
+  {
+    "name": ["","US","Chondrite","1873","Waconda"],
+    "lat": "39.20",
+    "lng": "-98.10"
+  },
+  {
+    "name": ["","AU","Iron","1963","Warburton Range"],
+    "lat": "-26.17",
+    "lng": "126.40"
+  },
+  {
+    "name": ["","US","Chondrite","1877","Warrenton"],
+    "lat": "38.41",
+    "lng": "-91.9"
+  },
+  {
+    "name": ["","AU","Iron","1872","Watson"],
+    "lat": "-30.30",
+    "lng": "133.33"
+  },
+  {
+    "name": ["","US","Chondrite","1973","Wayside"],
+    "lat": "34.486",
+    "lng": "-101.41"
+  },
+  {
+    "name": ["","US","Chondrite","1955","Wellington"],
+    "lat": "34.57",
+    "lng": "-100.15"
+  },
+  {
+    "name": ["","US","Chondrite","1940","Wellman a"],
+    "lat": "33.2",
+    "lng": "-102.20"
+  },
+  {
+    "name": ["","US","Chondrite","1964","Wellman c"],
+    "lat": "33.21",
+    "lng": "-102.21"
+  },
+  {
+    "name": ["","US","Chondrite","1972","West Point"],
+    "lat": "33.430",
+    "lng": "-102.242"
+  },
+  {
+    "name": ["","US","Chondrite","1807","Weston"],
+    "lat": "41.13",
+    "lng": "-73.23"
+  },
+  {
+    "name": ["","US","Chondrite","1940","Wickenurg stone"],
+    "lat": "33.58",
+    "lng": "-112.44"
+  },
+  {
+    "name": ["","AU","Chondrite","1968","Wildara"],
+    "lat": "-28.14",
+    "lng": "120.51"
+  },
+  {
+    "name": ["","AU","Chondrite","1967","Wiluna"],
+    "lat": "-26.3534",
+    "lng": "120.1942"
+  },
+  {
+    "name": ["","GB","Chondrite","1795","Wold Cottage"],
+    "lat": "54.812",
+    "lng": "-0.2448"
+  },
+  {
+    "name": ["","AU","Iron","1947","Wolf Creek"],
+    "lat": "-19.18",
+    "lng": "127.46"
+  },
+  {
+    "name": ["","US","Iron","1980","Wolsey"],
+    "lat": "44.25",
+    "lng": "-98.28"
+  },
+  {
+    "name": ["","AU","Iron","1937","Wonyulgunna"],
+    "lat": "-24.55",
+    "lng": "120.4"
+  },
+  {
+    "name": ["","US","Iron","1953","Woodbine"],
+    "lat": "42.2048",
+    "lng": "-90.103"
+  },
+  {
+    "name": ["","AU","Chondrite","1960","Woolgorong"],
+    "lat": "-27.45",
+    "lng": "115.50"
   }
 ]
