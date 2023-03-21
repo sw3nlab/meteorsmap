@@ -3343,5 +3343,40 @@
     "name": ["","AU","Chondrite","1960","Woolgorong"],
     "lat": "-27.45",
     "lng": "115.50"
+  },
+  {
+    "name": ["","CN","Chondrite","1977","Xingyang"],
+    "lat": "32.20",
+    "lng": "114.19"
+  },
+  {
+    "name": ["","AZ","Iron","1959","Yardymly"],
+    "lat": "38.56",
+    "lng": "48.15"
+  },
+  {
+    "name": ["","AU","Iron","1918","Yenberrie"],
+    "lat": "-14.15",
+    "lng": "132.1"
+  },
+  {
+    "name": ["","AU","Iron","1917","Youanmi"],
+    "lat": "-32.6",
+    "lng": "117.43"
+  },
+  {
+    "name": ["","AU","Iron","1884","Youndegin"],
+    "lat": "-32.61",
+    "lng": "117.431"
+  },
+  {
+    "name": ["","RU","Iron","1946","Yudoma"],
+    "lat": "60.0",
+    "lng": "140.0"
+  },
+  {
+    "name": ["","UA","Achondrite","1936","Yurtuk"],
+    "lat": "47.19",
+    "lng": "35.22"
   }
 ]
