@@ -2998,5 +2998,170 @@
     "name": ["","RU","Iron","1988","Sychevka"],
     "lat": "51.75",
     "lng": "127.297"
+  },
+  {
+    "name": ["","US","Chondrite","1934","Taiban b"],
+    "lat": "34.27",
+    "lng": "-104.1"
+  },
+  {
+    "name": ["","CL","Iron","1903","Tamarugal"],
+    "lat": "-20.48",
+    "lng": "-69.40"
+  },
+  {
+    "name": ["","DZ","Iron","1864","Tamentit"],
+    "lat": "27.43",
+    "lng": "-0.15"
+  },
+  {
+    "name": ["","DZ","Chondrite","1989","Tanezrouft 002"],
+    "lat": "24.24",
+    "lng": "-1.02"
+  },
+  {
+    "name": ["","DZ","Chondrite","1989","Tanezrouft 006"],
+    "lat": "25.32",
+    "lng": "-0.34"
+  },
+  {
+    "name": ["","RU","Chondrite","1912","Tarbagatai"],
+    "lat": "51.22",
+    "lng": "107.23"
+  },
+  {
+    "name": ["","TN","Achondrite","1931","Tatahouine"],
+    "lat": "32.57",
+    "lng": "10.25"
+  },
+  {
+    "name": ["","AU","Iron","1939","Tawallah Valley"],
+    "lat": "-15.42",
+    "lng": "135.40"
+  },
+  {
+    "name": ["","US","Iron","1853","Tazewell"],
+    "lat": "36.26",
+    "lng": "-83.45"
+  },
+  {
+    "name": ["","AU","Chondrite","1879","Tenham"],
+    "lat": "-25.44",
+    "lng": "142.57"
+  },
+  {
+    "name": ["","EE","Chondrite","1872","Tennasilm"],
+    "lat": "58.2",
+    "lng": "26.57"
+  },
+  {
+    "name": ["","AQ","Pallasite","1962","Thiel Mountains"],
+    "lat": "-85.27",
+    "lng": "-90.0"
+  },
+  {
+    "name": ["","GL","Iron","1955","Thule"],
+    "lat": "76.32",
+    "lng": "-67.33"
+  },
+  {
+    "name": ["","CZ","Chondrite","1878","Tieschitz"],
+    "lat": "49.36",
+    "lng": "17.7"
+  },
+  {
+    "name": ["","RU","Chondrite","1807","Timochin"],
+    "lat": "54.30",
+    "lng": "35.12"
+  },
+  {
+    "name": ["","ID","Chondrite","1922","Tjerebon"],
+    "lat": "-6.40",
+    "lng": "106.35"
+  },
+  {
+    "name": ["","RU","Iron","1971","Tobychan"],
+    "lat": "64.9",
+    "lng": "140.0"
+  },
+  {
+    "name": ["","US","Chondrite","1974","Tokio a"],
+    "lat": "33.13",
+    "lng": "-102.3754"
+  },
+  {
+    "name": ["","MX","Iron","1776","Toluca"],
+    "lat": "19.34",
+    "lng": "-99.34"
+  },
+  {
+    "name": ["","UA","Chondrite","1905","Tomakovka"],
+    "lat": "47.51",
+    "lng": "34.46"
+  },
+  {
+    "name": ["","RU","Iron","1891","Toubil River"],
+    "lat": "55.53",
+    "lng": "89.6"
+  },
+  {
+    "name": ["","US","Chondrite","1889","Travis County"],
+    "lat": "30.18",
+    "lng": "-97.42"
+  },
+  {
+    "name": ["","DE","Chondrite","1988","Trebbin"],
+    "lat": "53.13",
+    "lng": "13.10"
+  },
+  {
+    "name": ["","US","Iron","1858","Trenton"],
+    "lat": "43.22",
+    "lng": "-88.8"
+  },
+  {
+    "name": ["","IT","Chondrite","1856","Trenzano"],
+    "lat": "45.28",
+    "lng": "10.0"
+  },
+  {
+    "name": ["","MX","Iron","1992","Tres Castillos"],
+    "lat": "29.47",
+    "lng": "-105.8"
+  },
+  {
+    "name": ["","DE","Iron","1916","Treysa"],
+    "lat": "50.55",
+    "lng": "9.11"
+  },
+  {
+    "name": ["","RU","Chondrite","1922","Tsarev"],
+    "lat": "48.42",
+    "lng": "45.42"
+  },
+  {
+    "name": ["","US","Iron","1850","Tucson"],
+    "lat": "35.51",
+    "lng": "-110.58"
+  },
+  {
+    "name": ["","MN","Chondrite","1967","Tugalin-Bulen"],
+    "lat": "45.0",
+    "lng": "103.0"
+  },
+  {
+    "name": ["","US","Chondrite","1917","Tulia a"],
+    "lat": "34.37",
+    "lng": "-101.57"
+  },
+  {
+    "name": ["","US","Iron","1953","Turtle River"],
+    "lat": "47.37",
+    "lng": "-94.46"
+  },
+  {
+    "name": ["","MX","Chondrite","1975","Tuxtuac"],
+    "lat": "21.40",
+    "lng": "-103.22"
   }
 ]
