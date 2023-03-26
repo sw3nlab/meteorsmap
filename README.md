@@ -35,10 +35,14 @@ SQL>select count(id) from meteorites where type="Iron";
 <br/>
 ![image](https://raw.githubusercontent.com/sw3nlab/meteorsmap/main/type.jpg)
 <br/>
-`SQL>select count(id) from meteorites where latitude>0;`
+
+```php
+SQL>select count(id) from meteorites where latitude>0;
+```
 <br/>
 ![image](https://raw.githubusercontent.com/sw3nlab/meteorsmap/main/NS.png)
 <br/>
+
 ```php
 SQL>select count(id) from meteorites where latitude between 0 and 15;
 >16
@@ -47,5 +51,6 @@ SQL>select count(id) from meteorites where latitude between 15 and 30;
 SQL>select count(id) from meteorites where latitude between 30 and 45;
 >250
 ```
+<br/>
 ![image](https://raw.githubusercontent.com/sw3nlab/meteorsmap/main/total.png)
 <br/>
