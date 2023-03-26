@@ -27,3 +27,4 @@ https://sw3nlab.github.io/meteorsmap
 
 ниже представленна небольшая статистика по имеющимся данным...<br/>
 *SQL>select count(id) from meteorites where lat>0;*
+![image](https://raw.githubusercontent.com/sw3nlab/meteorsmap/main/NS.png)
