@@ -12,13 +12,12 @@ https://sw3nlab.github.io/meteorsmap
 ( http://www.meteorites.ru/menu/collection/collect_a.html )
 
 
-Для удобного и более наглядного анализа, составлена база данных на 688 метеоритов (файл dump.sql)
+Для удобного и более наглядного анализа, составлена база данных на 688 метеоритов (файл meteorites.sql)
 
 
 для визуализации используется SDK WorldWind от NASA ( docs/index.html подтягивает данные из файла coordinates.json )
 
 ( https://github.com/NASAWorldWind/WebWorldWind )
-
 
 
 
