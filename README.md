@@ -26,7 +26,12 @@ https://sw3nlab.github.io/meteorsmap
 (по каким метеоритам удалось найти инфу в википедии есть линк на статью, по остальным docs/404.html )
 
 ниже представленна небольшая статистика по имеющимся данным...<br/>
-`SQL>select count(id) from meteorites where type="Chondrite";`
+```php
+SQL>select count(id) from meteorites where type="Chondrite";
+>432
+SQL>select count(id) from meteorites where type="Iron";
+>166
+```
 <br/>
 ![image](https://raw.githubusercontent.com/sw3nlab/meteorsmap/main/type.jpg)
 <br/>
