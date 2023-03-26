@@ -26,5 +26,13 @@ https://sw3nlab.github.io/meteorsmap
 (по каким метеоритам удалось найти инфу в википедии есть линк на статью, по остальным docs/404.html )
 
 ниже представленна небольшая статистика по имеющимся данным...<br/>
-*SQL>select count(id) from meteorites where lat>0;*
+*SQL>select count(id) from meteorites where latitude>0;*
 ![image](https://raw.githubusercontent.com/sw3nlab/meteorsmap/main/NS.png)
+<br/>
+*SQL>select count(id) from meteorites where latitude between 0 and 15;
+>16
+SQL>select count(id) from meteorites where latitude between 15 and 30;
+>96
+SQL>select count(id) from meteorites where latitude between 30 and 45;
+>250*
+![image](https://raw.githubusercontent.com/sw3nlab/meteorsmap/main/total.png)
