@@ -59,8 +59,19 @@ SQL>select count(id) from meteorites where latitude between 30 and 45;
 ![image](https://raw.githubusercontent.com/sw3nlab/meteorsmap/main/total.png)
 
 <br/>
+выборка количества метеоритов по странам
+
 ```php
 SQL>select country,count(id) from meteorites group by country order by count(id) desc ;
 ```
-[image]
+
+image
+
 <br/>
+выборка количества метеоритов по годам
+
+```php
+SQL>select year,count(id) from meteorites group by year order by count(id) desc ;
+```
+
+image
