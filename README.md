@@ -65,8 +65,8 @@ SQL>select count(id) from meteorites where latitude between 30 and 45;
 SQL>select country,count(id) from meteorites group by country order by count(id) desc ;
 ```
 
-image
-
+<br/>
+![image](https://raw.githubusercontent.com/sw3nlab/meteorsmap/main/Country.png)
 <br/>
 выборка количества метеоритов по годам
 
@@ -74,4 +74,5 @@ image
 SQL>select year,count(id) from meteorites group by year order by count(id) desc ;
 ```
 
-image
+<br/>
+![image](https://raw.githubusercontent.com/sw3nlab/meteorsmap/main/.png)
