@@ -68,7 +68,7 @@ SQL>select country,count(id) from meteorites group by country order by count(id)
 
 <br/>
 
-![image](https://raw.githubusercontent.com/sw3nlab/meteorsmap/main/Country.png)
+![image](https://raw.githubusercontent.com/sw3nlab/meteorsmap/main/Country.jpg)
 
 <br/>
 
@@ -80,4 +80,4 @@ SQL>select year,count(id) from meteorites group by year order by count(id) desc 
 
 <br/>
 
-![image](https://raw.githubusercontent.com/sw3nlab/meteorsmap/main/.png)
+![image](https://raw.githubusercontent.com/sw3nlab/meteorsmap/main/Year.jpg)
