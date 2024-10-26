@@ -3,6 +3,10 @@ Meteorites Visualisation Map
 
 https://sw3nlab.github.io/meteorsmap
 
+Online карта отслеживание метеоритной активности, основана на данных открытого проекта ( https://globalmeteornetwork.org/data/ )
+
+https://tammojan.github.io/meteormap/
+
 ![image](https://raw.githubusercontent.com/sw3nlab/meteorsmap/main/arizona.gif)
 
 ### Онлайн 2D/3D карта для визуализации мест падения метеоритов (с 1492 до 1998 года) 
