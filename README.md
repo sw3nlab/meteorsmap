@@ -3,9 +3,10 @@ Meteorites Visualisation Map
 
 https://sw3nlab.github.io/meteorsmap
 
-Online карта отслеживание метеоритной активности, основана на данных открытого проекта ( https://globalmeteornetwork.org/data/ )
-
+Online карта отслеживание метеоритной активности:
 https://tammojan.github.io/meteormap/
+ основана на данных открытого проекта ( https://globalmeteornetwork.org/data/ )
+
 
 ![image](https://raw.githubusercontent.com/sw3nlab/meteorsmap/main/arizona.gif)
 
